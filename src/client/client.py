@@ -354,10 +354,10 @@ if __name__ == "__main__":
     if len(argv) > 0:
         if argv[0] == "check_dir":
             print(os.path.dirname(__file__))
-            exit()
+            sys.exit(0)
 
             
-    info("Listening...")
+    info("Listening Server")
 
 
     while is_running:
