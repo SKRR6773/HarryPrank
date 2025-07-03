@@ -1,11 +1,12 @@
 from check_platform import is_linux
 from audio_manager.audio_manager import _AudioManager
+from contextlib import redirect_stdout
+from types import LambdaType
 from pathlib import Path
 import subprocess
 import processes
 import hashlib
 import time
-import os
 import socket
 import getpass
 import platform
@@ -13,6 +14,10 @@ import uuid
 import requests
 import random
 import shutil
+import os
+import io
+
+
 
 
 __DIR__ = os.path.dirname(__file__)
@@ -154,3 +159,17 @@ def setSystemMute(is_mute: bool):
 def ffplayFromURL(url: str, ffplay_path: str):
     proc = subprocess.Popen(['-i', url, '-nodisp', '-autoexit'], executable=ffplay_path)
     processes.processes.append(proc)
+
+
+
+def executeCommandAsync(command: str, cb: LambdaType):
+    with io.StringIO()as buffer:
+        with redirect_stdout(buffer):
+            subprocess.run(command, timeout=60*60, shell=True)  # default timeout is 1hour
+
+
+        buffer.seek(0)
+        return cb(buffer.read())
+
+
+        

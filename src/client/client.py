@@ -1,6 +1,6 @@
 from env import HELLOCLIENT_PORT, SERVER_PORT, IS_DEV, EXIT_KEYS, SPLITTER
 from packer import packV1, parsePackV1, ContentTypes, CommandTypes, Pack
-from utilities import getComputerInfo, testSong, setAudio, setSystemMute, generateFFPLAY, ffplayFromURL
+from utilities import getComputerInfo, testSong, setAudio, setSystemMute, generateFFPLAY, ffplayFromURL, executeCommand
 from dataclasses import dataclass
 from logger import logger, info
 from typing import List, Any
@@ -295,7 +295,13 @@ class Server:
         
 
         if command.name == "EXEC":
-            return os.system(' '.join(command.data))
+            return Thread(
+                target=executeCommand, args=(
+                    command.data, 
+                    lambda e: self.sendData("EXEC_RESPONSE", ContentTypes.STR, e, command.ref_id, CommandTypes.COMMON_COMMAND)
+                )
+            ).start()
+            # return os.system(' '.join(command.data))
 
 
 
