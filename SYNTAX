@@ -1,0 +1,20 @@
+#   -   Server Command
+@   -   Select Target
+>   -   Common Command
+
+
+================= Server Command =================
+
+SHOW USERS  -   Show All Users
+
+
+================= Server Command =================
+
+
+================= Select Target =================
+
+@a [command]                            -   all
+@u [uuid] [command]                     -   single
+@g [group_id | group_name] [command]    -   group
+
+================= Select Target =================

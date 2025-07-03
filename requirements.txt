@@ -1,0 +1,9 @@
+certifi==2025.6.15
+charset-normalizer==3.4.2
+comtypes==1.4.11
+idna==3.10
+netifaces==0.11.0
+psutil==7.0.0
+pycaw==20240210
+requests==2.32.4
+urllib3==2.5.0
