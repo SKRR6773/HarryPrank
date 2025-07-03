@@ -1,527 +1,82 @@
-2025-06-25 21:12:47,940 - INFO - Listening...
-2025-06-25 21:12:57,007 - INFO - Listening...
-2025-06-25 21:13:18,710 - INFO - Listening...
-2025-06-25 21:13:21,714 - ERROR - timed out
-2025-06-25 21:13:24,717 - ERROR - timed out
-2025-06-25 21:13:27,721 - ERROR - timed out
-2025-06-25 21:13:30,724 - ERROR - timed out
-2025-06-25 21:13:33,727 - ERROR - timed out
-2025-06-25 21:13:59,211 - INFO - Listening...
-2025-06-25 21:14:36,457 - INFO - Listening...
-2025-06-25 21:14:39,460 - ERROR - timed out
-2025-06-25 21:14:41,931 - ERROR - b'192.168.1.102' (len 13 != 4) is not permitted as an IPv4 address
-2025-06-25 21:14:44,933 - ERROR - timed out
-2025-06-25 21:15:12,001 - INFO - Listening...
-2025-06-25 21:15:15,005 - ERROR - timed out
-2025-06-25 21:15:18,006 - ERROR - timed out
-2025-06-25 21:15:21,009 - ERROR - timed out
-2025-06-25 21:15:40,217 - INFO - Listening...
-2025-06-25 21:15:44,998 - ERROR - timed out
-2025-06-25 21:15:48,001 - ERROR - timed out
-2025-06-25 21:15:51,004 - ERROR - timed out
-2025-06-25 21:16:50,815 - INFO - Listening...
-2025-06-25 21:16:55,069 - ERROR - timed out
-2025-06-25 21:16:58,072 - ERROR - timed out
-2025-06-25 21:17:35,351 - INFO - Listening...
-2025-06-25 21:17:38,355 - ERROR - timed out
-2025-06-25 21:17:41,358 - ERROR - timed out
-2025-06-25 21:17:42,118 - ERROR - illegal IP address string passed to inet_aton
-2025-06-25 21:17:45,121 - ERROR - timed out
-2025-06-25 21:18:00,923 - INFO - Listening...
-2025-06-25 21:18:05,143 - ERROR - timed out
-2025-06-25 21:44:20,696 - INFO - Listening...
-2025-06-25 21:44:23,700 - ERROR - timed out
-2025-06-25 21:44:27,075 - ERROR - timed out
-2025-06-25 21:44:30,078 - ERROR - timed out
-2025-06-25 21:44:33,081 - ERROR - timed out
-2025-06-25 21:44:37,086 - ERROR - timed out
-2025-06-25 21:44:53,632 - INFO - Listening...
-2025-06-25 21:44:57,109 - ERROR - timed out
-2025-06-25 21:45:00,113 - ERROR - timed out
-2025-06-25 21:45:03,117 - ERROR - timed out
-2025-06-25 21:45:07,114 - ERROR - timed out
-2025-06-25 21:45:10,124 - ERROR - timed out
-2025-06-25 21:45:27,985 - INFO - Listening...
-2025-06-25 21:45:30,989 - ERROR - timed out
-2025-06-25 21:45:33,993 - ERROR - timed out
-2025-06-25 21:45:37,143 - ERROR - timed out
-2025-06-25 21:45:40,146 - ERROR - timed out
-2025-06-25 21:45:43,149 - ERROR - timed out
-2025-06-25 21:45:47,160 - ERROR - timed out
-2025-06-25 21:45:50,163 - ERROR - timed out
-2025-06-25 21:46:02,984 - INFO - Listening...
-2025-06-25 21:46:07,180 - ERROR - timed out
-2025-06-25 21:46:10,185 - ERROR - timed out
-2025-06-25 21:46:13,190 - ERROR - timed out
-2025-06-25 21:46:17,182 - ERROR - timed out
-2025-06-25 21:46:18,682 - INFO - Listening...
-2025-06-25 21:47:41,089 - INFO - Listening...
-2025-06-25 21:47:44,097 - ERROR - timed out
-2025-06-25 21:47:47,299 - ERROR - timed out
-2025-06-25 21:47:50,303 - ERROR - timed out
-2025-06-25 21:50:26,119 - INFO - Listening...
-2025-06-25 21:50:29,122 - ERROR - timed out
-2025-06-25 21:50:32,125 - ERROR - timed out
-2025-06-25 21:50:37,508 - ERROR - timed out
-2025-06-25 21:50:40,511 - ERROR - timed out
-2025-06-25 21:51:13,453 - INFO - Listening...
-2025-06-25 21:51:17,552 - ERROR - [Errno 9] Bad file descriptor
-2025-06-25 21:51:49,007 - INFO - Listening...
-2025-06-25 21:52:29,700 - INFO - Listening...
-2025-06-25 21:52:32,704 - ERROR - timed out
-2025-06-25 21:52:37,639 - ERROR - [Errno 9] Bad file descriptor
-2025-06-25 21:53:47,041 - INFO - Listening...
-2025-06-25 21:53:50,045 - ERROR - timed out
-2025-06-25 21:53:53,048 - ERROR - timed out
-2025-06-25 21:53:57,718 - ERROR - [Errno 9] Bad file descriptor
-2025-06-25 21:54:27,627 - INFO - Listening...
-2025-06-25 21:54:30,631 - ERROR - timed out
-2025-06-25 21:54:33,633 - ERROR - timed out
-2025-06-25 21:54:37,759 - ERROR - [Errno 9] Bad file descriptor
-2025-06-25 21:58:10,901 - INFO - Listening...
-2025-06-25 21:58:13,905 - ERROR - timed out
-2025-06-25 21:58:17,987 - ERROR - [Errno 9] Bad file descriptor
-2025-06-25 21:59:16,016 - INFO - Listening...
-2025-06-25 21:59:19,019 - ERROR - timed out
-2025-06-25 21:59:22,022 - ERROR - timed out
-2025-06-25 21:59:25,417 - ERROR - [Errno 9] Bad file descriptor
-2025-06-25 21:59:56,080 - INFO - Listening...
-2025-06-25 21:59:59,084 - ERROR - timed out
-2025-06-25 22:00:02,088 - ERROR - timed out
-2025-06-25 22:00:06,220 - ERROR - [Errno 9] Bad file descriptor
-2025-06-25 22:01:45,029 - INFO - Listening...
-2025-06-25 22:01:48,033 - ERROR - timed out
-2025-06-25 22:01:51,036 - ERROR - timed out
-2025-06-25 22:01:55,928 - ERROR - [Errno 9] Bad file descriptor
-2025-06-25 22:02:49,322 - INFO - Listening...
-2025-06-25 22:02:52,326 - ERROR - timed out
-2025-06-25 22:02:55,329 - ERROR - timed out
-2025-06-25 22:03:00,596 - ERROR - [Errno 9] Bad file descriptor
-2025-06-25 22:03:31,156 - INFO - Listening...
-2025-06-25 22:03:34,159 - ERROR - timed out
-2025-06-25 22:03:37,163 - ERROR - timed out
-2025-06-25 22:03:42,217 - ERROR - [Errno 9] Bad file descriptor
-2025-06-26 16:50:25,223 - INFO - Listening...
-2025-06-26 16:50:28,227 - ERROR - timed out
-2025-06-26 16:50:31,231 - ERROR - timed out
-2025-06-26 16:50:34,235 - ERROR - timed out
-2025-06-26 16:50:37,239 - ERROR - timed out
-2025-06-26 16:50:40,246 - ERROR - timed out
-2025-06-26 16:50:43,251 - ERROR - timed out
-2025-06-26 16:50:46,256 - ERROR - timed out
-2025-06-26 16:50:49,262 - ERROR - timed out
-2025-06-26 16:50:52,266 - ERROR - timed out
-2025-06-26 16:50:55,271 - ERROR - timed out
-2025-06-26 16:50:58,276 - ERROR - timed out
-2025-06-26 16:51:01,281 - ERROR - timed out
-2025-06-26 16:51:04,287 - ERROR - timed out
-2025-06-26 16:51:07,292 - ERROR - timed out
-2025-06-26 16:51:10,297 - ERROR - timed out
-2025-06-26 16:51:13,302 - ERROR - timed out
-2025-06-26 16:51:42,896 - INFO - Listening...
-2025-06-26 16:51:47,444 - ERROR - timed out
-2025-06-26 16:53:18,393 - INFO - Listening...
-2025-06-26 16:53:21,396 - ERROR - timed out
-2025-06-26 16:53:24,402 - ERROR - timed out
-2025-06-26 16:53:29,363 - ERROR - timed out
-2025-06-26 16:57:44,962 - INFO - Listening...
-2025-06-26 16:57:47,967 - ERROR - timed out
-2025-06-26 16:57:50,971 - ERROR - timed out
-2025-06-26 16:57:54,993 - ERROR - timed out
-2025-06-26 16:59:52,463 - INFO - Listening...
-2025-06-26 16:59:55,468 - ERROR - timed out
-2025-06-26 16:59:58,471 - ERROR - timed out
-2025-06-26 17:00:02,688 - ERROR - [Errno 9] Bad file descriptor
-2025-06-26 17:06:04,194 - INFO - Listening...
-2025-06-26 17:06:07,198 - ERROR - timed out
-2025-06-26 17:06:12,221 - ERROR - [Errno 9] Bad file descriptor
-2025-06-26 17:12:15,334 - INFO - Listening...
-2025-06-26 17:12:18,338 - ERROR - timed out
-2025-06-26 17:12:21,343 - ERROR - timed out
-2025-06-26 17:12:24,347 - ERROR - timed out
-2025-06-26 17:12:27,354 - ERROR - timed out
-2025-06-26 17:12:30,358 - ERROR - timed out
-2025-06-26 17:12:33,365 - ERROR - timed out
-2025-06-26 17:12:36,371 - ERROR - timed out
-2025-06-26 17:14:28,183 - INFO - Listening...
-2025-06-26 17:14:31,188 - ERROR - timed out
-2025-06-26 17:14:35,067 - INFO - Listening...
-2025-06-26 17:14:38,072 - ERROR - timed out
-2025-06-26 17:14:41,078 - ERROR - timed out
-2025-06-26 17:15:29,773 - INFO - Listening...
-2025-06-26 17:15:32,778 - ERROR - timed out
-2025-06-26 17:16:28,006 - INFO - Listening...
-2025-06-26 17:16:31,010 - ERROR - timed out
-2025-06-26 17:16:34,016 - ERROR - timed out
-2025-06-26 17:16:37,022 - ERROR - timed out
-2025-06-26 17:18:03,898 - INFO - Listening...
-2025-06-26 17:18:06,902 - ERROR - timed out
-2025-06-26 17:18:09,908 - ERROR - timed out
-2025-06-26 17:18:11,953 - INFO - Listening...
-2025-06-26 17:19:16,745 - INFO - Listening...
-2025-06-26 17:19:19,749 - ERROR - timed out
-2025-06-26 17:19:23,036 - ERROR - [Errno 9] Bad file descriptor
-2025-06-26 17:19:27,476 - INFO - Listening...
-2025-06-26 17:19:33,047 - ERROR - [Errno 9] Bad file descriptor
-2025-06-26 17:35:17,035 - INFO - Listening...
-2025-06-26 17:35:20,040 - ERROR - timed out
-2025-06-26 17:35:23,046 - ERROR - timed out
-2025-06-26 17:35:26,809 - ERROR - timed out
-2025-06-26 17:38:56,491 - INFO - Listening...
-2025-06-26 17:38:59,496 - ERROR - timed out
-2025-06-26 17:39:02,501 - ERROR - timed out
-2025-06-26 17:39:07,670 - ERROR - timed out
-2025-06-26 17:42:32,655 - INFO - Listening...
-2025-06-26 17:44:20,117 - INFO - Listening...
-2025-06-26 17:45:43,235 - INFO - Listening...
-2025-06-26 18:01:53,797 - INFO - Listening...
-2025-06-26 18:02:40,381 - INFO - Listening...
-2025-06-26 19:20:28,143 - INFO - Listening...
-2025-06-26 19:22:03,276 - INFO - Listening...
-2025-06-26 19:22:26,594 - INFO - Listening...
-2025-06-26 19:25:31,859 - INFO - Listening...
-2025-06-26 19:26:19,147 - INFO - Listening...
-2025-06-26 19:27:19,147 - INFO - Listening...
-2025-06-26 19:28:54,929 - INFO - Listening...
-2025-06-26 22:14:56,153 - INFO - Listening...
-2025-06-26 23:04:55,655 - INFO - Listening...
-2025-06-26 23:08:29,336 - INFO - Listening...
-2025-06-26 23:10:13,948 - INFO - Listening...
-2025-06-26 23:35:11,017 - INFO - Listening...
-2025-06-26 23:39:13,065 - INFO - Listening...
-2025-06-26 23:42:05,268 - INFO - Listening...
-2025-06-26 23:44:25,692 - INFO - Listening...
-2025-06-26 23:46:01,526 - INFO - Listening...
-2025-06-27 00:00:32,167 - INFO - Listening...
-2025-06-27 10:21:49,102 - INFO - Listening...
-2025-06-27 10:25:04,896 - INFO - Listening...
-2025-06-27 10:25:59,073 - INFO - Listening...
-2025-06-27 10:26:53,974 - INFO - Listening...
-2025-06-27 10:28:30,365 - INFO - Listening...
-2025-06-27 10:28:33,369 - INFO - Retry again
-2025-06-27 10:28:36,372 - INFO - Retry again
-2025-06-27 10:28:38,747 - INFO - ('192.168.1.102', 59362)
-2025-06-27 10:46:37,140 - INFO - Listening...
-2025-06-27 10:46:39,729 - INFO - ('192.168.1.102', 46075)
-2025-06-27 10:46:55,196 - INFO - Listening...
-2025-06-27 10:46:58,200 - INFO - Retry again
-2025-06-27 10:46:59,745 - INFO - ('192.168.1.102', 46075)
-2025-06-27 11:05:22,045 - INFO - Listening...
-2025-06-27 11:05:25,048 - INFO - Retry again
-2025-06-27 11:05:28,052 - INFO - Retry again
-2025-06-27 11:05:28,727 - INFO - ('192.168.1.102', 58741)
-2025-06-27 11:06:43,507 - INFO - Listening...
-2025-06-27 11:06:46,510 - INFO - Retry again
-2025-06-27 11:06:49,512 - INFO - Retry again
-2025-06-27 11:06:50,880 - INFO - ('192.168.1.102', 34178)
-2025-06-27 11:06:58,551 - INFO - Listening...
-2025-06-27 11:07:00,889 - INFO - ('192.168.1.102', 34178)
-2025-06-27 11:09:57,008 - INFO - Listening...
-2025-06-27 11:10:00,822 - INFO - Retry again
-2025-06-27 11:10:03,825 - INFO - Retry again
-2025-06-27 11:10:07,344 - INFO - Listening...
-2025-06-27 11:10:10,345 - INFO - Retry again
-2025-06-27 11:10:13,349 - INFO - Retry again
-2025-06-27 11:10:15,654 - INFO - ('192.168.1.102', 37663)
-2025-06-27 11:10:23,154 - INFO - Listening...
-2025-06-27 11:10:25,661 - INFO - ('192.168.1.102', 37663)
-2025-06-27 11:10:34,370 - INFO - Listening...
-2025-06-27 11:10:35,672 - INFO - ('192.168.1.102', 37663)
-2025-06-27 11:18:48,736 - INFO - Listening...
-2025-06-27 11:18:51,739 - INFO - Retry again
-2025-06-27 11:18:56,291 - INFO - Listening...
-2025-06-27 11:18:59,295 - INFO - Retry again
-2025-06-27 11:19:02,298 - INFO - Retry again
-2025-06-27 11:19:05,301 - INFO - Retry again
-2025-06-27 11:19:05,818 - INFO - ('192.168.1.102', 34017)
-2025-06-27 11:24:05,346 - INFO - Listening...
-2025-06-27 11:24:06,405 - INFO - ('192.168.1.102', 34017)
-2025-06-27 11:26:48,491 - INFO - Listening...
-2025-06-27 11:26:51,494 - INFO - Retry again
-2025-06-27 11:26:54,498 - INFO - Retry again
-2025-06-27 11:26:57,499 - INFO - Retry again
-2025-06-27 11:26:58,339 - INFO - ('192.168.1.102', 34017)
-2025-06-27 11:27:29,270 - INFO - Listening...
-2025-06-27 11:27:32,273 - INFO - Retry again
-2025-06-27 11:27:35,277 - INFO - Retry again
-2025-06-27 11:27:38,280 - INFO - Retry again
-2025-06-27 11:27:38,374 - INFO - ('192.168.1.102', 34017)
-2025-06-27 11:28:19,715 - INFO - Listening...
-2025-06-27 11:28:22,719 - INFO - Retry again
-2025-06-27 11:28:25,722 - INFO - Retry again
-2025-06-27 11:28:28,610 - INFO - ('192.168.1.102', 34017)
-2025-06-27 11:30:00,245 - INFO - Listening...
-2025-06-27 11:30:03,252 - INFO - Retry again
-2025-06-27 11:30:04,978 - INFO - ('192.168.1.102', 39590)
-2025-06-27 11:43:44,285 - INFO - Listening...
-2025-06-27 11:43:46,622 - INFO - ('192.168.1.102', 39590)
-2025-06-27 11:45:15,799 - INFO - Listening...
-2025-06-27 11:45:18,631 - INFO - ('192.168.1.102', 39590)
-2025-06-27 11:45:18,803 - INFO - Server Connected::192.168.1.102
-2025-06-27 11:46:48,691 - INFO - Listening...
-2025-06-27 11:46:49,040 - INFO - ('192.168.1.102', 39590)
-2025-06-27 11:46:51,692 - INFO - Server Connected::192.168.1.102
-2025-06-27 11:49:55,518 - INFO - Listening...
-2025-06-27 11:49:58,521 - INFO - Retry again
-2025-06-27 11:50:00,089 - INFO - ('192.168.1.102', 39590)
-2025-06-27 11:50:01,524 - INFO - Server Connected::192.168.1.102
-2025-06-27 11:50:17,255 - INFO - Listening...
-2025-06-27 11:50:20,107 - INFO - ('192.168.1.102', 39590)
-2025-06-27 11:50:20,258 - INFO - Server Connected::192.168.1.102
-2025-06-27 21:38:06,813 - INFO - Listening...
-2025-06-27 21:38:09,817 - INFO - Retry again
-2025-06-27 21:38:12,818 - INFO - Retry again
-2025-06-27 21:38:15,788 - INFO - ('192.168.1.102', 59378)
-2025-06-27 21:38:15,823 - INFO - Server Connected::192.168.1.102
-2025-06-27 21:42:56,154 - INFO - Listening...
-2025-06-27 21:42:56,618 - INFO - ('192.168.1.102', 59378)
-2025-06-27 21:42:59,159 - INFO - Server Connected::192.168.1.102
-2025-06-27 21:43:31,276 - INFO - Listening...
-2025-06-27 21:43:34,280 - INFO - Retry again
-2025-06-27 21:43:37,283 - INFO - Retry again
-2025-06-27 21:43:37,324 - INFO - ('192.168.1.102', 59378)
-2025-06-27 21:43:40,287 - INFO - Server Connected::192.168.1.102
-2025-06-27 21:44:24,090 - INFO - Listening...
-2025-06-27 21:44:27,373 - INFO - ('192.168.1.102', 59378)
-2025-06-27 21:44:28,000 - INFO - Server Connected::192.168.1.102
-2025-06-30 09:50:31,199 - INFO - Listening...
-2025-06-30 09:50:32,256 - INFO - ('10.101.0.205', 52403)
-2025-06-30 09:50:34,216 - INFO - Server Connected::10.101.0.205
-2025-06-30 09:55:05,666 - INFO - Listening...
-2025-06-30 09:55:08,682 - INFO - Retry again
-2025-06-30 09:55:11,685 - INFO - Retry again
-2025-06-30 09:55:13,197 - INFO - ('10.101.0.205', 54059)
-2025-06-30 09:55:14,688 - INFO - Server Connected::10.101.0.205
-2025-06-30 10:05:52,333 - INFO - Listening...
-2025-06-30 10:05:55,382 - INFO - Retry again
-2025-06-30 10:05:56,038 - INFO - ('10.101.0.205', 43816)
-2025-06-30 10:05:58,385 - INFO - Server Connected::10.101.0.205
-2025-06-30 10:12:54,592 - INFO - Listening...
-2025-06-30 10:12:57,607 - INFO - Retry again
-2025-06-30 10:13:00,611 - INFO - Retry again
-2025-06-30 10:13:03,012 - INFO - ('10.101.0.205', 43137)
-2025-06-30 10:13:03,613 - INFO - Server Connected::10.101.0.205
-2025-06-30 10:17:48,693 - INFO - Listening...
-2025-06-30 10:17:51,720 - INFO - Retry again
-2025-06-30 10:17:54,724 - INFO - Retry again
-2025-06-30 10:17:55,998 - INFO - ('10.101.0.205', 37002)
-2025-06-30 10:17:57,726 - INFO - Server Connected::10.101.0.205
-2025-06-30 10:44:27,454 - INFO - Listening...
-2025-06-30 10:44:30,473 - INFO - Retry again
-2025-06-30 10:44:33,477 - INFO - Retry again
-2025-06-30 10:44:33,696 - INFO - ('10.101.0.205', 37816)
-2025-06-30 10:44:36,480 - INFO - Server Connected::10.101.0.205
-2025-06-30 10:48:08,378 - INFO - Listening...
-2025-06-30 10:48:11,381 - INFO - Retry again
-2025-06-30 10:48:13,999 - INFO - ('10.101.0.205', 37816)
-2025-06-30 10:48:14,384 - INFO - Server Connected::10.101.0.205
-2025-06-30 10:49:11,564 - INFO - Listening...
-2025-06-30 10:49:14,080 - INFO - ('10.101.0.205', 37816)
-2025-06-30 10:49:14,568 - INFO - Server Connected::10.101.0.205
-2025-06-30 10:52:37,749 - INFO - Listening...
-2025-06-30 10:52:40,771 - INFO - Retry again
-2025-06-30 10:52:42,110 - INFO - ('10.101.0.205', 35262)
-2025-06-30 10:52:43,774 - INFO - Server Connected::10.101.0.205
-2025-06-30 11:56:41,591 - INFO - Listening...
-2025-06-30 11:56:44,588 - INFO - Retry again
-2025-06-30 11:56:46,261 - INFO - ('192.168.1.101', 56754)
-2025-06-30 11:56:47,593 - INFO - Server Connected::192.168.1.101
-2025-06-30 11:56:59,942 - INFO - Listening...
-2025-06-30 11:57:02,959 - INFO - Retry again
-2025-06-30 11:57:05,959 - INFO - Retry again
-2025-06-30 11:57:06,280 - INFO - ('192.168.1.101', 56754)
-2025-06-30 11:57:08,944 - INFO - Server Connected::192.168.1.101
-2025-06-30 12:04:18,641 - INFO - Listening...
-2025-06-30 12:04:21,638 - INFO - Retry again
-2025-06-30 12:04:24,640 - INFO - Retry again
-2025-06-30 12:04:26,708 - INFO - ('192.168.1.101', 56754)
-2025-06-30 12:04:27,643 - INFO - Server Connected::192.168.1.101
-2025-06-30 12:05:01,658 - INFO - Server Connected::192.168.1.101
-2025-06-30 12:06:32,697 - INFO - Server Connected::192.168.1.101
-2025-06-30 12:11:06,822 - INFO - Server Connected::192.168.1.101
-2025-06-30 12:11:19,918 - INFO - Listening...
-2025-06-30 12:11:22,912 - INFO - Retry again
-2025-06-30 12:11:25,570 - INFO - ('192.168.1.101', 39961)
-2025-06-30 12:11:25,919 - INFO - Server Connected::192.168.1.101
-2025-06-30 12:12:22,035 - INFO - Listening...
-2025-06-30 12:12:25,030 - INFO - Retry again
-2025-06-30 12:12:25,625 - INFO - ('192.168.1.101', 39961)
-2025-06-30 12:12:28,037 - INFO - Server Connected::192.168.1.101
-2025-06-30 12:13:01,051 - INFO - Server Connected::192.168.1.101
-2025-06-30 12:18:09,187 - INFO - Server Connected::192.168.1.101
-2025-07-01 20:49:51,509 - INFO - Listening...
-2025-07-01 20:49:54,230 - INFO - ('192.168.1.102', 64271)
-2025-07-01 20:49:54,512 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:38:56,642 - INFO - Listening...
-2025-07-01 22:38:59,659 - INFO - Retry again
-2025-07-01 22:39:02,660 - INFO - Retry again
-2025-07-01 22:39:05,648 - INFO - Listening...
-2025-07-01 22:39:05,660 - INFO - Retry again
-2025-07-01 22:39:06,358 - INFO - ('192.168.1.102', 64271)
-2025-07-01 22:39:08,645 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:39:21,521 - INFO - Listening...
-2025-07-01 22:39:24,519 - INFO - Retry again
-2025-07-01 22:39:26,361 - INFO - ('192.168.1.102', 64271)
-2025-07-01 22:39:27,523 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:40:04,669 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:42:00,585 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:42:00,721 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:42:41,739 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:43:10,752 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:44:44,678 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:44:44,824 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:45:41,700 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:45:41,845 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:46:01,854 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:46:53,749 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:46:53,877 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:47:32,895 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:48:06,794 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:48:06,911 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:48:28,921 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:49:56,831 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:49:56,959 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:50:20,971 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:50:58,909 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:50:58,990 - INFO - Server Connected::192.168.1.102
-2025-07-01 22:51:46,684 - INFO - Listening...
-2025-07-01 22:51:49,686 - INFO - Retry again
-2025-07-01 22:51:52,687 - INFO - Retry again
-2025-07-01 22:51:55,703 - INFO - Retry again
-2025-07-01 22:51:56,639 - INFO - ('192.168.1.102', 58525)
-2025-07-01 22:51:58,687 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:00:34,689 - INFO - Listening...
-2025-07-01 23:00:36,715 - INFO - ('192.168.1.102', 58525)
-2025-07-01 23:00:37,691 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:02:53,325 - INFO - Listening...
-2025-07-01 23:02:56,312 - INFO - Retry again
-2025-07-01 23:02:56,735 - INFO - ('192.168.1.102', 58525)
-2025-07-01 23:02:59,328 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:05:25,652 - INFO - Listening...
-2025-07-01 23:05:26,779 - INFO - ('192.168.1.102', 58525)
-2025-07-01 23:05:28,653 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:06:40,780 - INFO - Listening...
-2025-07-01 23:06:43,787 - INFO - Retry again
-2025-07-01 23:06:46,789 - INFO - ('192.168.1.102', 58525)
-2025-07-01 23:06:49,782 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:08:02,296 - INFO - Listening...
-2025-07-01 23:08:05,293 - INFO - Retry again
-2025-07-01 23:08:06,801 - INFO - ('192.168.1.102', 58525)
-2025-07-01 23:08:08,298 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:09:21,454 - INFO - Listening...
-2025-07-01 23:09:24,471 - INFO - Retry again
-2025-07-01 23:09:26,814 - INFO - ('192.168.1.102', 58525)
-2025-07-01 23:09:27,455 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:11:22,892 - INFO - Listening...
-2025-07-01 23:11:25,909 - INFO - Retry again
-2025-07-01 23:11:26,830 - INFO - ('192.168.1.102', 58525)
-2025-07-01 23:11:28,894 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:12:20,289 - INFO - Listening...
-2025-07-01 23:12:23,306 - INFO - Retry again
-2025-07-01 23:12:26,306 - INFO - Retry again
-2025-07-01 23:12:26,838 - INFO - ('192.168.1.102', 58525)
-2025-07-01 23:12:29,291 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:15:42,222 - INFO - Listening...
-2025-07-01 23:15:45,239 - INFO - Retry again
-2025-07-01 23:15:46,865 - INFO - ('192.168.1.102', 58525)
-2025-07-01 23:15:48,224 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:16:50,428 - INFO - Listening...
-2025-07-01 23:16:53,421 - INFO - Retry again
-2025-07-01 23:16:56,422 - INFO - Retry again
-2025-07-01 23:16:56,874 - INFO - ('192.168.1.102', 58525)
-2025-07-01 23:16:59,431 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:18:26,739 - INFO - Listening...
-2025-07-01 23:18:26,886 - INFO - ('192.168.1.102', 58525)
-2025-07-01 23:18:29,740 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:20:20,965 - INFO - Listening...
-2025-07-01 23:20:23,964 - INFO - Retry again
-2025-07-01 23:20:26,902 - INFO - ('192.168.1.102', 58525)
-2025-07-01 23:20:26,967 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:33:54,867 - INFO - Listening...
-2025-07-01 23:33:57,860 - INFO - Retry again
-2025-07-01 23:33:59,458 - INFO - Listening...
-2025-07-01 23:34:00,818 - INFO - ('192.168.1.102', 65421)
-2025-07-01 23:34:00,869 - INFO - Server Connected::192.168.1.102
-2025-07-01 23:34:04,452 - INFO - Listening...
-2025-07-01 23:34:07,469 - INFO - Retry again
-2025-07-01 23:34:10,474 - INFO - Retry again
-2025-07-01 23:34:10,820 - INFO - ('192.168.1.102', 65421)
-2025-07-01 23:34:13,454 - INFO - Server Connected::192.168.1.102
-2025-07-02 01:29:59,632 - INFO - Listening...
-2025-07-02 01:30:00,193 - INFO - ('192.168.1.102', 51412)
-2025-07-02 01:30:02,633 - INFO - Server Connected::192.168.1.102
-2025-07-02 01:30:19,175 - INFO - Listening...
-2025-07-02 01:30:20,195 - INFO - ('192.168.1.102', 51412)
-2025-07-02 01:30:22,176 - INFO - Server Connected::192.168.1.102
-2025-07-02 01:30:50,925 - INFO - ffplay_path: C:/Users/SKRR6773\Templates\1751394650.397732.exe
-2025-07-02 01:31:18,106 - INFO - Listening...
-2025-07-02 01:31:20,202 - INFO - ('192.168.1.102', 51412)
-2025-07-02 01:31:21,108 - INFO - Server Connected::192.168.1.102
-2025-07-02 01:31:34,007 - INFO - ffplay_path: C:/Users/SKRR6773\3D Objects\1751394692.2114856.exe
-2025-07-02 01:42:06,851 - INFO - Listening...
-2025-07-02 01:42:09,840 - INFO - Retry again
-2025-07-02 01:42:10,285 - INFO - ('192.168.1.102', 51412)
-2025-07-02 01:42:12,853 - INFO - Server Connected::192.168.1.102
-2025-07-02 01:42:17,856 - INFO - Server Connected::192.168.1.102
-2025-07-02 01:42:25,681 - INFO - Listening...
-2025-07-02 01:42:26,177 - INFO - ('192.168.1.102', 49340)
-2025-07-02 01:43:07,687 - INFO - Server Connected::192.168.1.102
-2025-07-02 01:43:35,094 - INFO - ffplay_path: C:/Users/SKRR6773\OneDrive\1751395414.5806336.exe
-2025-07-02 01:44:10,747 - INFO - Listening...
-2025-07-02 01:44:13,762 - INFO - Retry again
-2025-07-02 01:44:16,188 - INFO - ('192.168.1.102', 49340)
-2025-07-02 01:44:16,749 - INFO - Server Connected::192.168.1.102
-2025-07-02 01:44:46,874 - INFO - ffplay_path: C:/Users/SKRR6773\Links\1751395486.3414428.exe
-2025-07-02 01:45:09,016 - INFO - ffplay_path: C:/Users/SKRR6773\IntelGraphicsProfiles\1751395508.364328.exe
-2025-07-02 01:52:32,980 - INFO - Listening...
-2025-07-02 01:52:35,976 - INFO - Retry again
-2025-07-02 01:52:37,042 - INFO - ('192.168.1.102', 52103)
-2025-07-02 01:52:38,982 - INFO - Server Connected::192.168.1.102
-2025-07-02 01:52:39,254 - INFO - Server Connected::192.168.1.102
-2025-07-02 01:52:44,502 - INFO - Listening...
-2025-07-02 01:52:47,044 - INFO - ('192.168.1.102', 52103)
-2025-07-02 01:52:47,504 - INFO - Server Connected::192.168.1.102
-2025-07-02 02:04:39,007 - INFO - Listening...
-2025-07-02 10:16:24,138 - INFO - Listening...
-2025-07-02 10:16:27,150 - INFO - Retry again
-2025-07-02 10:16:30,153 - INFO - Retry again
-2025-07-02 10:16:33,157 - INFO - Retry again
-2025-07-02 10:16:33,382 - INFO - ('10.101.0.205', 37060)
-2025-07-02 10:16:36,157 - INFO - Server Connected::10.101.0.205
-2025-07-02 11:22:18,369 - INFO - Server Connected::10.101.0.205
-2025-07-02 11:22:24,048 - INFO - Listening...
-2025-07-02 11:22:25,162 - INFO - ('10.101.0.205', 45203)
-2025-07-02 11:22:27,052 - INFO - Server Connected::10.101.0.205
-2025-07-02 12:12:00,320 - INFO - Listening...
-2025-07-02 12:12:03,333 - INFO - Retry again
-2025-07-02 12:12:06,336 - INFO - Retry again
-2025-07-02 12:12:09,337 - INFO - Retry again
-2025-07-02 12:12:09,571 - INFO - ('10.101.0.205', 45203)
-2025-07-02 12:12:12,342 - INFO - Server Connected::10.101.0.205
-2025-07-02 16:07:03,793 - INFO - Listening...
-2025-07-02 16:07:06,811 - INFO - Retry again
-2025-07-02 16:07:07,163 - INFO - ('10.101.0.205', 44526)
-2025-07-02 16:07:09,814 - INFO - Server Connected::10.101.0.205
-2025-07-02 16:08:40,539 - INFO - Listening...
-2025-07-02 16:08:43,543 - INFO - Retry again
-2025-07-02 16:08:46,546 - INFO - Retry again
-2025-07-02 16:08:47,290 - INFO - ('10.101.0.205', 44526)
-2025-07-02 16:08:49,549 - INFO - Server Connected::10.101.0.205
-2025-07-02 16:14:39,213 - INFO - Listening...
-2025-07-02 16:14:41,390 - INFO - ('10.101.0.205', 51497)
-2025-07-02 16:14:42,231 - INFO - Server Connected::10.101.0.205
-2025-07-02 16:33:41,906 - INFO - Listening...
-2025-07-02 16:33:44,999 - INFO - Retry again
-2025-07-02 16:33:47,378 - INFO - ('10.101.0.205', 48683)
-2025-07-02 16:33:48,002 - INFO - Server Connected::10.101.0.205
-2025-07-02 16:34:33,611 - INFO - Listening...
-2025-07-02 16:34:36,615 - INFO - Retry again
-2025-07-02 16:34:37,469 - INFO - ('10.101.0.205', 48683)
-2025-07-02 16:34:39,618 - INFO - Server Connected::10.101.0.205
-2025-07-02 17:12:23,429 - INFO - Listening...
-2025-07-02 17:12:26,472 - INFO - Retry again
-2025-07-02 17:12:29,475 - INFO - Retry again
-2025-07-02 17:12:32,482 - INFO - Retry again
-2025-07-02 17:12:33,215 - INFO - ('10.101.0.205', 36557)
-2025-07-02 17:12:35,481 - INFO - Server Connected::10.101.0.205
-2025-07-02 17:23:30,143 - INFO - Server Connected::10.101.0.205
+2025-07-03 10:22:10,239 - INFO - Listening...
+2025-07-03 10:22:11,634 - INFO - ('10.101.1.84', 59618)
+2025-07-03 10:22:13,243 - INFO - Server Connected::10.101.1.84
+2025-07-03 10:23:22,310 - INFO - Server Connected::10.101.1.84
+2025-07-03 10:25:25,564 - INFO - Listening...
+2025-07-03 10:25:28,567 - INFO - Retry again
+2025-07-03 10:25:31,150 - INFO - ('10.101.1.84', 50061)
+2025-07-03 10:25:31,570 - INFO - Server Connected::10.101.1.84
+2025-07-03 10:25:41,582 - INFO - Server Connected::10.101.1.84
+2025-07-03 10:25:49,590 - INFO - Retry again
+2025-07-03 10:25:52,592 - INFO - Retry again
+2025-07-03 10:25:55,595 - INFO - Retry again
+2025-07-03 10:25:58,598 - INFO - Retry again
+2025-07-03 10:26:01,601 - INFO - Retry again
+2025-07-03 10:26:04,604 - INFO - Retry again
+2025-07-03 10:26:07,608 - INFO - Retry again
+2025-07-03 10:26:10,612 - INFO - Retry again
+2025-07-03 10:26:13,615 - INFO - Retry again
+2025-07-03 10:26:16,618 - INFO - Retry again
+2025-07-03 10:26:19,622 - INFO - Retry again
+2025-07-03 10:26:22,624 - INFO - Retry again
+2025-07-03 10:26:25,628 - INFO - Retry again
+2025-07-03 10:26:28,631 - INFO - Retry again
+2025-07-03 10:26:31,635 - INFO - Retry again
+2025-07-03 10:26:34,639 - INFO - Retry again
+2025-07-03 10:26:37,642 - INFO - Retry again
+2025-07-03 10:26:40,645 - INFO - Retry again
+2025-07-03 10:26:43,648 - INFO - Retry again
+2025-07-03 10:26:46,651 - INFO - Retry again
+2025-07-03 10:26:49,656 - INFO - Retry again
+2025-07-03 10:26:52,659 - INFO - Retry again
+2025-07-03 10:26:55,663 - INFO - Retry again
+2025-07-03 10:26:58,667 - INFO - Retry again
+2025-07-03 10:27:01,670 - INFO - Retry again
+2025-07-03 10:27:04,674 - INFO - Retry again
+2025-07-03 10:27:07,678 - INFO - Retry again
+2025-07-03 10:27:10,681 - INFO - Retry again
+2025-07-03 10:27:13,684 - INFO - Retry again
+2025-07-03 10:27:16,688 - INFO - Retry again
+2025-07-03 10:27:19,691 - INFO - Retry again
+2025-07-03 10:27:22,694 - INFO - Retry again
+2025-07-03 10:27:25,697 - INFO - Retry again
+2025-07-03 10:27:28,700 - INFO - Retry again
+2025-07-03 10:27:31,704 - INFO - Retry again
+2025-07-03 10:27:34,707 - INFO - Retry again
+2025-07-03 10:27:37,710 - INFO - Retry again
+2025-07-03 10:27:40,714 - INFO - Retry again
+2025-07-03 10:27:43,717 - INFO - Retry again
+2025-07-03 10:27:46,721 - INFO - Retry again
+2025-07-03 10:27:49,724 - INFO - Retry again
+2025-07-03 10:27:52,728 - INFO - Retry again
+2025-07-03 10:27:55,731 - INFO - Retry again
+2025-07-03 10:27:58,734 - INFO - Retry again
+2025-07-03 10:28:01,737 - INFO - Retry again
+2025-07-03 10:28:04,740 - INFO - Retry again
+2025-07-03 10:28:07,743 - INFO - Retry again
+2025-07-03 10:28:10,746 - INFO - Retry again
+2025-07-03 10:28:13,750 - INFO - Retry again
+2025-07-03 10:28:16,753 - INFO - Retry again
+2025-07-03 10:28:19,756 - INFO - Retry again
+2025-07-03 10:28:22,759 - INFO - Retry again
+2025-07-03 10:28:25,763 - INFO - Retry again
+2025-07-03 10:28:28,766 - INFO - Retry again
+2025-07-03 10:28:31,769 - INFO - Retry again
+2025-07-03 10:28:34,773 - INFO - Retry again
+2025-07-03 10:28:37,776 - INFO - Retry again
+2025-07-03 10:28:40,779 - INFO - Retry again
+2025-07-03 10:28:43,782 - INFO - Retry again
+2025-07-03 10:28:46,785 - INFO - Retry again
+2025-07-03 10:28:49,788 - INFO - Retry again
+2025-07-03 10:28:52,042 - INFO - ('10.101.1.84', 43205)
+2025-07-03 10:28:52,769 - INFO - Server Connected::10.101.1.84
+2025-07-03 10:29:00,780 - INFO - Server Connected::10.101.1.84
+2025-07-03 10:29:08,788 - INFO - Retry again
+2025-07-03 10:29:11,791 - INFO - Retry again
+2025-07-03 10:29:14,794 - INFO - Retry again
+2025-07-03 10:29:17,798 - INFO - Retry again
+2025-07-03 10:29:20,801 - INFO - Retry again
+2025-07-03 10:29:23,805 - INFO - Retry again
+2025-07-03 10:29:26,809 - INFO - Retry again
+2025-07-03 10:29:29,813 - INFO - Retry again
+2025-07-03 10:29:32,817 - INFO - Retry again

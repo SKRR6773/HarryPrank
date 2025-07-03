@@ -70,6 +70,7 @@ class Client:
             except TimeoutError:
                 continue
 
+
             except Exception as ex:
                 logger.error({
                     "addr": self.addr,
@@ -105,23 +106,6 @@ class Client:
                 raise ModuleNotFoundError()
             
 
-            # _command: CommandNamePermit = None
-
-
-            # for row in COMMANDS:
-            #     if row.command_name == command.name:
-            #         _command = row
-            #         break
-            
-            
-            # if not _command:
-            #     raise ModuleNotFoundError()
-            
-
-
-            # if command.name == "GetAllClient":
-            #     pass
-
 
         except ModuleNotFoundError:
             logger.error("Client sent CommandType Not Found")
@@ -136,6 +120,10 @@ class Client:
 
 
             self.sendData("ClientList", ContentTypes.JSON, list(server.getAllClientUUID), command.ref_id, None)
+
+
+        if command.name == "SERV_STOP":
+            closeServ()
 
 
         else:
@@ -320,7 +308,8 @@ class Server:
     def __init__(self):
         self.is_running = True
 
-        self.clients: List[_Client] = []
+        self.clients: List[_Client] = []        # Client ที่ไม่ใช่ socket object 
+
 
         self.server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
@@ -359,10 +348,6 @@ class Server:
             except Exception as ex:
                 logger.error(ex)
 
-
-
-
-
         
         self.close()
 
@@ -375,15 +360,25 @@ class Server:
                 index = i
                 break
 
-
-        self.clients.pop(index)
+        
+        if index != -1:
+            self.clients.pop(index)
 
 
     def close(self):
         if self.is_running:
+
+            # close all client session
+            for client in self.clients:
+                client.client.close()
+
+
             self.clients.clear()
             self.server.close()
             self.is_running = False
+
+            info("Server TCP is Closed")
+
 
 
     def findClientWithClientUUID(self, client_uuid: str) -> Client | None:
@@ -433,7 +428,7 @@ class HelloClient:
             info(f"Broadcast to everyone with {IPV4}")
             self.server.sendto(IPV4.encode(), ("<broadcast>", HELLOCLIENT_PORT))
 
-            time.sleep(10)
+            time.sleep(broad_cast_intertime)
 
 
 
@@ -443,12 +438,21 @@ class HelloClient:
 
 
 
+def closeServ():
+    global server
+    global hello_client
 
-main_tasks = []
+    server.close()
+    hello_client.close()
+
+
+main_tasks: List[Thread] = []
 server: Server = None
 hello_client: HelloClient = None
 
 is_running = True
+
+broad_cast_intertime = 10
 
 
 
@@ -458,7 +462,7 @@ if __name__ == "__main__":
     info("Processes starting")
 
     info("Server TCP Starting")
-    server = Server()
+    server = Server()   # Enemy Of Server
 
     task = Thread(target=server.listening, args=())
     task.start()
@@ -476,4 +480,10 @@ if __name__ == "__main__":
 
 
 
+    for task in main_tasks:
+        task.join()
+
+
+
+    info("All Service Closed")
     
