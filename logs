@@ -181,3 +181,123 @@
 2025-07-03 12:49:33,812 - INFO - Broadcast to everyone with 10.101.1.84
 2025-07-03 12:49:43,822 - INFO - Broadcast to everyone with 10.101.1.84
 2025-07-03 12:49:53,833 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:50:03,843 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:50:13,853 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:50:23,863 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:50:33,873 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:50:43,874 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:50:53,885 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:51:03,896 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:51:13,906 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:51:23,916 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:51:33,927 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:51:43,937 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:51:44,723 - INFO - Client Join: ('10.101.1.84', 36886)
+2025-07-03 12:51:53,948 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:52:03,958 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:52:13,968 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:52:23,978 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:52:33,988 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:52:43,999 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:52:54,000 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:53:04,007 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:53:14,011 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:53:24,021 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:53:34,032 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:53:39,463 - INFO - Client ('10.101.1.84', 36886) Disconnection
+2025-07-03 12:53:39,463 - INFO - Server TCP is Closed
+2025-07-03 12:53:39,464 - INFO - Client ('10.101.1.84', 36886) Disconnection
+2025-07-03 12:53:39,835 - ERROR - [Errno 9] Bad file descriptor
+2025-07-03 12:53:44,041 - INFO - All Service Closed
+2025-07-03 12:53:47,337 - INFO - Listening bot
+2025-07-03 12:53:47,338 - INFO - Processes starting
+2025-07-03 12:53:47,338 - INFO - Server TCP Starting
+2025-07-03 12:53:47,338 - INFO - Server Listening...
+2025-07-03 12:53:47,338 - INFO - Server TCP Started
+2025-07-03 12:53:47,338 - INFO - HelloClient Server Starting
+2025-07-03 12:53:47,338 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:53:47,338 - INFO - HelloClient Started
+2025-07-03 12:53:57,349 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:53:59,859 - INFO - Client Join: ('10.101.1.84', 54232)
+2025-07-03 12:54:07,359 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:54:17,370 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:54:27,380 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:54:37,391 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:54:47,401 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:54:56,711 - INFO - Client ('10.101.1.84', 54232) Disconnection
+2025-07-03 12:54:56,712 - INFO - Server TCP is Closed
+2025-07-03 12:54:56,712 - INFO - Client ('10.101.1.84', 54232) Disconnection
+2025-07-03 12:54:59,919 - ERROR - [Errno 9] Bad file descriptor
+2025-07-03 12:54:59,920 - INFO - All Service Closed
+2025-07-03 12:55:02,289 - INFO - Listening bot
+2025-07-03 12:55:02,289 - INFO - Processes starting
+2025-07-03 12:55:02,289 - INFO - Server TCP Starting
+2025-07-03 12:55:02,289 - INFO - Server Listening...
+2025-07-03 12:55:02,289 - INFO - Server TCP Started
+2025-07-03 12:55:02,290 - INFO - HelloClient Server Starting
+2025-07-03 12:55:02,290 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:55:02,290 - INFO - HelloClient Started
+2025-07-03 12:55:12,299 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:55:13,933 - INFO - Client Join: ('10.101.1.84', 55854)
+2025-07-03 12:55:22,309 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:55:32,317 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:55:42,321 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:55:52,331 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:56:02,341 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:56:12,352 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:56:22,362 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:56:32,373 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:56:42,383 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:56:52,394 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:57:02,403 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:57:12,413 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:57:22,424 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:57:32,426 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:57:42,436 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:57:52,446 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:58:02,456 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:58:12,466 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:58:22,476 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:58:32,485 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:58:42,495 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:58:52,506 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:59:02,516 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:59:12,527 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:59:22,537 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:59:32,370 - INFO - Client ('10.101.1.84', 55854) Disconnection
+2025-07-03 12:59:32,370 - INFO - Server TCP is Closed
+2025-07-03 12:59:32,370 - INFO - Client ('10.101.1.84', 55854) Disconnection
+2025-07-03 12:59:34,190 - ERROR - [Errno 9] Bad file descriptor
+2025-07-03 12:59:34,190 - INFO - All Service Closed
+2025-07-03 12:59:36,080 - INFO - Listening bot
+2025-07-03 12:59:36,080 - INFO - Processes starting
+2025-07-03 12:59:36,081 - INFO - Server TCP Starting
+2025-07-03 12:59:36,081 - INFO - Server Listening...
+2025-07-03 12:59:36,081 - INFO - Server TCP Started
+2025-07-03 12:59:36,081 - INFO - HelloClient Server Starting
+2025-07-03 12:59:36,081 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:59:36,081 - INFO - HelloClient Started
+2025-07-03 12:59:36,194 - INFO - Client Join: ('10.101.1.84', 54504)
+2025-07-03 12:59:46,091 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 12:59:56,101 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:00:06,111 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:00:16,121 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:00:26,131 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:00:36,141 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:00:46,151 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:00:56,162 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:01:06,169 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:01:16,179 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:01:26,183 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:01:36,193 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:01:46,203 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:01:56,213 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:02:06,223 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:02:16,228 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:02:26,239 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:02:36,250 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:02:46,258 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:02:56,268 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:03:06,278 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:03:16,289 - INFO - Broadcast to everyone with 10.101.1.84
+2025-07-03 13:03:26,299 - INFO - Broadcast to everyone with 10.101.1.84

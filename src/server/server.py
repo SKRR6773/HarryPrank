@@ -33,6 +33,7 @@ class Client:
 
         info(f"Client Join: " + str(addr))
         self.sendData("GetComputerInfo", ContentTypes.STR, None, None, None, None)
+        self.sendData("SetUUID", ContentTypes.STR, )        ;;;     # create setter method for set uuid and send SetUUID traffic to client
 
 
 
@@ -121,8 +122,7 @@ class Client:
 
             self.sendData("ClientList", ContentTypes.JSON, list(server.getAllClientUUID), command.ref_id, None)
 
-
-        if command.name == "SERV_STOP":
+        elif command.name == "SERV_STOP":
             closeServ()
 
 
@@ -231,17 +231,25 @@ class Client:
         #     self.send404Command(command)
 
 
-    def onCommonCommand(self, command: Pack):
+    def onCommonCommand(self, command: Pack):   # Client Response
         # print(command)
 
 
-        if command.name == "ComputerInfo":
+        if command.name == "ComputerInfo":          
             self.data['ComputerInfo'] = command.data
+
+
+        elif command.name == "EXEC_RESPONSE":
+            self.data['EXEC_RESPONSE'] = command.data
 
 
         else:
             self.send404Command(command)
 
+
+
+        if command.from_sender:
+            self.sendToUUID(command.from_sender, command)
 
 
         print(self.data)
@@ -270,6 +278,15 @@ class Client:
         self.sendData("404", ContentTypes.JSON, {
             "message": f"{command.name} not found command"
         }, command.ref_id, command.command_type, command.from_sender)
+
+
+    def sendToUUID(self, uuid: str, command: Pack):
+        if server:
+            client = server.findClientWithClientUUID(uuid)
+
+
+            if client:
+                client.sendData(**command)
 
 
     def close(self):

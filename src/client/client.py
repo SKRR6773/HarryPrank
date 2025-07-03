@@ -111,6 +111,8 @@ class Server:
         self.tasks: List[Thread] = []
         self._buffer = b''
 
+        self.uuid: str = None
+
         self.command_type: CommandTypes = CommandTypes.COMMON_COMMAND
 
         self.server = socket.socket()
