@@ -1,4 +1,8 @@
 import subprocess
 
 
-subprocess.call('cmd')
+proc = subprocess.Popen('cmd', stdin=subprocess.PIPE)
+
+print("Hello CMD ")
+
+proc.terminate()
