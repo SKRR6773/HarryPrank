@@ -1,7 +1,7 @@
 import subprocess
 
 
-proc = subprocess.Popen('cmd', stdin=subprocess.PIPE)
+proc = subprocess.Popen(['cmd.exe'], stdin=subprocess.PIPE, text=True, bufsize=1)
 
 print("Hello CMD ")
 
