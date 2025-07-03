@@ -49,6 +49,7 @@ class Pack:
     name: str
     data: Any
     ref_id: Optional[str]
+    content_type: Optional[ContentTypes]        # ไม่แน่ใจเท่าไหร่ 
     command_type: Optional[CommandTypes]
     from_sender: Optional[str]
 
@@ -94,7 +95,7 @@ def parsePackV1(data_encoded: bytes) -> Pack:
             data_body_parsed = json.loads(data_body_parsed)
 
 
-        return Pack(data_unpacked.get("headers").get("Name"), data_body_parsed, data_unpacked.get("headers").get("Ref-ID"), command_type, from_sender)
+        return Pack(data_unpacked.get("headers").get("Name"), data_body_parsed, data_unpacked.get("headers").get("Ref-ID"), content_type, command_type, from_sender)
 
     except Exception as ex:
         print(ex)

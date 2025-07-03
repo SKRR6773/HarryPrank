@@ -1,6 +1,6 @@
-from check_platform import is_linux
 from audio_manager.audio_manager import _AudioManager
 from contextlib import redirect_stdout
+from check_platform import is_linux
 from types import LambdaType
 from pathlib import Path
 import subprocess
@@ -34,7 +34,7 @@ MUSIC_TEST_PATH = os.path.join(FFMPEG_PATH, "June.mp3")
 
 
 
-def generateFFPLAY():
+def generateFFPLAY():   # ไม่ต้องซับซ้อนโว้ยยยย
     home_dirs = []
 
     for fd in os.listdir(HOME_DIR):
@@ -172,4 +172,6 @@ def executeCommandAsync(command: str, cb: LambdaType):
         return cb(buffer.read())
 
 
-        
+
+def clearConsole():
+    os.system("clear" if is_linux else "cls")

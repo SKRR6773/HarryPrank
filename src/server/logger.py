@@ -24,3 +24,8 @@ logger.addHandler(file_handler)
 
 
 info = logger.info
+
+
+def getLog() -> str:
+    with open(filename, 'r', encoding='utf-8')as fr:
+        return fr.read()

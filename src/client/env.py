@@ -6,6 +6,10 @@ EXIT_KEYS = [
     'exit', 'quit', 'stop'
 ]
 
+CLEAR_KEYS = [
+    'clear', 'cls', 'clean', 'flush'
+]
+
 
 IS_DEV = False
 
