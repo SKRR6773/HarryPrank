@@ -241,6 +241,10 @@ class Client:
             readlog.readLog("Log of User", command.data)
 
 
+        elif command.name == "PING":
+            self.sendData("PONG", ContentTypes.STR, "", None, CommandTypes.COMMON_COMMAND, None)
+
+
         else:
             print(command)
 

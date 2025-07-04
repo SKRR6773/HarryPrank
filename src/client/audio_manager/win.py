@@ -1,7 +1,7 @@
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume, AudioSession
 from typing import List
 from .audio_manager import _AudioManager
-from ..check_platform import is_linux
+from .check_platform import is_linux
 
 
 if not is_linux:
@@ -26,6 +26,8 @@ class AudioManager(_AudioManager):
             devices = AudioUtilities.GetSpeakers()
             interface = devices.Activate(IAudioEndpointVolume._iid_, CLSCTX_ALL, None)
             volume = cast(interface, POINTER(IAudioEndpointVolume))
+
+            print("SetMasterVolumeLevelScalar")
 
 
             volume.SetMasterVolumeLevelScalar(percent / 100, None)

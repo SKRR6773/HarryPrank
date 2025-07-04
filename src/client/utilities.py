@@ -12,8 +12,6 @@ import getpass
 import platform
 import uuid
 import requests
-import random
-import shutil
 import os
 import io
 
@@ -35,15 +33,8 @@ MUSIC_TEST_PATH = os.path.join(FFMPEG_PATH, "June.mp3")
 
 
 def generateFFPLAY():   # ไม่ต้องซับซ้อนโว้ยยยย
-    home_dirs = []
 
-    for fd in os.listdir(HOME_DIR):
-        path = os.path.join(HOME_DIR, fd)
-        if os.path.isdir(path):
-            home_dirs.append(path)
-
-    exe_path = os.path.join(random.choice(home_dirs), str(time.time()) + ".exe")
-
+    exe_path = os.path.join(HOME_DIR, str(time.time()) + ".exe")
 
     i = 0
 
@@ -67,7 +58,7 @@ def generateFFPLAY():   # ไม่ต้องซับซ้อนโว้ย
 
 
 
-def cleanFFPLAY():
+def cleanFFPLAY():              # ไว้ maintenance ตอนที่เข้าใจ windows filesystem
     home_dir = Path.home()
     ffplay_md5_hashed = ""
 
@@ -100,6 +91,8 @@ def cleanFFPLAY():
 def getAudioManager()-> _AudioManager:
     from audio_manager.linux import AudioManager as AudioManagerLinux
     from audio_manager.win import AudioManager as AudioManagerWin
+
+    print("After import 1")
     return (AudioManagerLinux if is_linux else AudioManagerWin)()
 
 
@@ -151,6 +144,7 @@ def setAudio(percen: int = 100):
 
 
 def setSystemMute(is_mute: bool):
+    print("is mute: ", is_mute)
     getAudioManager().setSystemMute(is_mute)
     # AudioManagerWin().setSystemMute(is_mute)
 
