@@ -1,8 +1,8 @@
 # Server.py
-from Client import _Client, Client
-from logger import info, logger
+from server.Client import _Client, Client
+from server.logger import info, logger
 from threading import Thread
-from env import SERVER_PORT
+from utils.env import SERVER_PORT
 from typing import List
 import socket
 import uuid

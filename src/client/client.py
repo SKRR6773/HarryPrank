@@ -1,16 +1,15 @@
-from utilities import getComputerInfo, testSong, setAudio, setSystemMute, generateFFPLAY, ffplayFromURL, executeCommandAsync, clearConsole
-from packer import packV1, parsePackV1, ContentTypes, CommandTypes, Pack
-from env import SERVER_PORT, IS_DEV, EXIT_KEYS, SPLITTER, CLEAR_KEYS
-from logger import info, getLog
-from interfaces import Command
+from client.utilities import getComputerInfo, testSong, setAudio, setSystemMute, generateFFPLAY, ffplayFromURL, executeCommandAsync, clearConsole
+from utils.packer import packV1, parsePackV1, ContentTypes, CommandTypes, Pack
+from utils.env import IS_DEV, EXIT_KEYS, SPLITTER, CLEAR_KEYS
+from client.logger import info, getLog
+from client.interfaces import Command
 from typing import List, Any
 from threading import Thread
-from tk import readlog
-import closeProcess
+from client.tk import readlog
+import client.closeProcess as closeProcess
 import webbrowser
-import processes
+import client.processes as processes
 import socket
-import shared
 import uuid
 import time
 import sys
@@ -28,7 +27,7 @@ if "dev" in argv:
 
 
 class Client:
-    def __init__(self, ip: str):
+    def __init__(self, ip: str, port: int):
         self.is_running = True
 
         self.commands: List[Command] = []
@@ -40,7 +39,7 @@ class Client:
         self.command_type: CommandTypes = CommandTypes.COMMON_COMMAND
 
         self.server = socket.socket()
-        self.server.connect((ip, SERVER_PORT))
+        self.server.connect((ip, port))
         self.server.settimeout(5)
 
 

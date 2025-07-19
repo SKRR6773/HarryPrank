@@ -1,10 +1,10 @@
-from audio_manager.audio_manager import _AudioManager
+from client.audio_manager.audio_manager import _AudioManager
 from contextlib import redirect_stdout
-from check_platform import is_linux
+from utils.check_platform import is_linux
 from types import LambdaType
 from pathlib import Path
 import subprocess
-import processes
+import client.processes as processes
 import hashlib
 import time
 import socket
@@ -120,7 +120,7 @@ def getComputerInfo():
 
 
     try:
-        info["External IP"] = requests.get('https://ifconfig.me').text
+        info["External IP"] = requests.get('https://ifconfig.me', timeout=10).text
     except:
         info["External IP"] = "No Internet/Failed"
 

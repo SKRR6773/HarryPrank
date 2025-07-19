@@ -1,5 +1,5 @@
 from subprocess import Popen
-from logger import logger
+from client.logger import logger
 from typing import List
 import psutil
 import os
