@@ -1,0 +1,1657 @@
+2025-07-03 21:33:17,139 - INFO - Listening bot
+2025-07-03 21:33:17,139 - INFO - Processes starting
+2025-07-03 21:33:17,139 - INFO - Server TCP Starting
+2025-07-03 21:33:17,140 - INFO - Server Listening...
+2025-07-03 21:33:17,140 - INFO - Server TCP Started
+2025-07-03 21:33:17,141 - INFO - HelloClient Server Starting
+2025-07-03 21:33:17,141 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:33:17,141 - INFO - HelloClient Started
+2025-07-03 21:33:27,142 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:33:37,143 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:33:38,942 - INFO - Client Join: ('192.168.1.102', 51264)
+2025-07-03 21:33:47,145 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:33:57,146 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:34:07,148 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:34:11,937 - INFO - Client ('192.168.1.102', 51264) Disconnection
+2025-07-03 21:34:11,938 - INFO - Server TCP is Closed
+2025-07-03 21:34:11,938 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-03 21:34:11,938 - INFO - HelloClient is closed
+2025-07-03 21:34:11,939 - INFO - Client ('192.168.1.102', 51264) Disconnection
+2025-07-03 21:34:17,149 - INFO - All Service Closed
+2025-07-03 21:34:26,488 - INFO - Listening bot
+2025-07-03 21:34:26,489 - INFO - Processes starting
+2025-07-03 21:34:26,489 - INFO - Server TCP Starting
+2025-07-03 21:34:26,490 - INFO - Server Listening...
+2025-07-03 21:34:26,490 - INFO - Server TCP Started
+2025-07-03 21:34:26,490 - INFO - HelloClient Server Starting
+2025-07-03 21:34:26,491 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:34:26,491 - INFO - HelloClient Started
+2025-07-03 21:34:36,492 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:34:38,763 - INFO - Client Join: ('192.168.1.102', 51272)
+2025-07-03 21:34:39,881 - INFO - Client ('192.168.1.102', 51272) Disconnection
+2025-07-03 21:34:43,766 - INFO - Client Join: ('192.168.1.102', 51275)
+2025-07-03 21:34:46,404 - INFO - Client ('192.168.1.102', 51275) Disconnection
+2025-07-03 21:34:46,493 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:34:49,770 - INFO - Client Join: ('192.168.1.102', 51277)
+2025-07-03 21:34:54,812 - INFO - Client ('192.168.1.102', 51277) Disconnection
+2025-07-03 21:34:56,494 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:34:58,775 - INFO - Client Join: ('192.168.1.102', 51279)
+2025-07-03 21:35:00,330 - INFO - Client ('192.168.1.102', 51279) Disconnection
+2025-07-03 21:35:06,495 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:35:16,498 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:35:19,059 - INFO - Client Join: ('192.168.1.102', 51286)
+2025-07-03 21:35:26,499 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:35:36,500 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:35:46,501 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:35:56,503 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:36:04,280 - INFO - Client ('192.168.1.102', 51286) Disconnection
+2025-07-03 21:36:04,281 - INFO - Server TCP is Closed
+2025-07-03 21:36:04,281 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-03 21:36:04,282 - INFO - HelloClient is closed
+2025-07-03 21:36:04,283 - INFO - Client ('192.168.1.102', 51286) Disconnection
+2025-07-03 21:36:06,504 - INFO - All Service Closed
+2025-07-03 21:40:35,730 - INFO - Listening bot
+2025-07-03 21:40:35,731 - INFO - Processes starting
+2025-07-03 21:40:35,731 - INFO - Server TCP Starting
+2025-07-03 21:40:35,736 - INFO - Server Listening...
+2025-07-03 21:40:35,736 - INFO - Server TCP Started
+2025-07-03 21:40:35,737 - INFO - HelloClient Server Starting
+2025-07-03 21:40:35,737 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:40:35,737 - INFO - HelloClient Started
+2025-07-03 21:40:45,738 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:40:46,918 - INFO - Client Join: ('192.168.1.102', 51322)
+2025-07-03 21:40:53,318 - INFO - Client ('192.168.1.102', 51322) Disconnection
+2025-07-03 21:40:55,739 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:41:05,740 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:41:15,741 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:41:25,742 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:41:35,743 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:41:45,744 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:41:46,411 - INFO - Client Join: ('192.168.1.102', 51328)
+2025-07-03 21:41:52,205 - INFO - Client ('192.168.1.102', 51328) Disconnection
+2025-07-03 21:41:52,206 - INFO - Server TCP is Closed
+2025-07-03 21:41:52,206 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-03 21:41:52,206 - INFO - HelloClient is closed
+2025-07-03 21:41:52,207 - INFO - Client ('192.168.1.102', 51328) Disconnection
+2025-07-03 21:41:55,746 - INFO - All Service Closed
+2025-07-03 21:44:28,027 - INFO - Listening bot
+2025-07-03 21:44:28,027 - INFO - Processes starting
+2025-07-03 21:44:28,028 - INFO - Server TCP Starting
+2025-07-03 21:44:28,029 - INFO - Server Listening...
+2025-07-03 21:44:28,030 - INFO - Server TCP Started
+2025-07-03 21:44:28,030 - INFO - HelloClient Server Starting
+2025-07-03 21:44:28,031 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:44:28,031 - INFO - HelloClient Started
+2025-07-03 21:44:38,032 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:44:40,389 - INFO - Client Join: ('192.168.1.102', 51334)
+2025-07-03 21:44:48,033 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:44:58,034 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:45:08,035 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:45:18,036 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:45:28,038 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:45:38,039 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:45:48,039 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:45:58,040 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:46:08,042 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:46:18,044 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:46:28,045 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:46:38,046 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:46:48,047 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:46:58,048 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:47:08,049 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:47:18,050 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:47:28,051 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:47:38,068 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:47:48,069 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:47:58,070 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:48:08,071 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:48:18,072 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:48:28,073 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:48:38,074 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:48:48,075 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:48:58,076 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:49:08,078 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:49:18,079 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:49:28,093 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:49:38,093 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:49:48,095 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:49:58,096 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:50:09,423 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:50:19,425 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:50:29,426 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:50:39,427 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:50:49,428 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:50:59,430 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:51:09,431 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:51:19,432 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:51:29,433 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:51:39,434 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:51:49,435 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:51:59,436 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:52:09,438 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:52:19,439 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:52:29,451 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:52:39,485 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:52:49,485 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:52:59,486 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:53:09,488 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:53:19,489 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:53:29,490 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:53:39,491 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:53:49,492 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:53:59,526 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:54:09,535 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:54:19,538 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:54:29,539 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:54:39,540 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:54:49,541 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:54:59,542 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:55:09,543 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:55:19,544 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:55:29,545 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:55:39,546 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:55:49,547 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:55:59,549 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:56:09,550 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:56:19,551 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:56:29,553 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:56:39,554 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:56:49,555 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:56:59,556 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:57:09,557 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:57:19,558 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:57:29,559 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:57:39,560 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:57:49,561 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:57:59,562 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:58:09,563 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:58:19,564 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:58:29,566 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:58:39,567 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:58:49,568 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:58:59,569 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:59:09,571 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:59:20,203 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:59:30,229 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:59:40,230 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 21:59:50,231 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:00:00,232 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:00:10,233 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:00:20,234 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:00:30,235 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:00:40,236 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:00:50,238 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:01:00,239 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:01:10,240 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:01:20,241 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:01:22,940 - INFO - Client ('192.168.1.102', 51334) Disconnection
+2025-07-03 22:01:22,940 - INFO - Server TCP is Closed
+2025-07-03 22:01:22,940 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-03 22:01:22,941 - INFO - HelloClient is closed
+2025-07-03 22:01:22,942 - INFO - Client ('192.168.1.102', 51334) Disconnection
+2025-07-03 22:01:31,551 - INFO - windows
+2025-07-03 22:01:31,551 - INFO - Listening Server
+2025-07-03 22:01:33,100 - INFO - Listening bot
+2025-07-03 22:01:33,101 - INFO - Processes starting
+2025-07-03 22:01:33,101 - INFO - Server TCP Starting
+2025-07-03 22:01:33,102 - INFO - Server Listening...
+2025-07-03 22:01:33,102 - INFO - Server TCP Started
+2025-07-03 22:01:33,102 - INFO - HelloClient Server Starting
+2025-07-03 22:01:33,103 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:01:33,103 - INFO - HelloClient Started
+2025-07-03 22:01:33,103 - INFO - ('192.168.1.102', 49377)
+2025-07-03 22:01:34,553 - INFO - Server Connected::192.168.1.102
+2025-07-03 22:01:34,554 - INFO - Client Join: ('192.168.1.102', 51476)
+2025-07-03 22:01:43,104 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:01:53,105 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:01:59,395 - INFO - Client ('192.168.1.102', 51476) Disconnection
+2025-07-03 22:01:59,396 - INFO - Server TCP is Closed
+2025-07-03 22:01:59,396 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-03 22:01:59,396 - INFO - HelloClient is closed
+2025-07-03 22:01:59,397 - INFO - Client ('192.168.1.102', 51476) Disconnection
+2025-07-03 22:02:03,106 - INFO - All Service Closed
+2025-07-03 22:04:35,328 - INFO - Listening bot
+2025-07-03 22:04:35,373 - INFO - Processes starting
+2025-07-03 22:04:35,408 - INFO - Server TCP Starting
+2025-07-03 22:04:35,502 - INFO - Server Listening...
+2025-07-03 22:04:35,502 - INFO - Server TCP Started
+2025-07-03 22:04:35,518 - INFO - HelloClient Server Starting
+2025-07-03 22:04:35,520 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:04:35,520 - INFO - HelloClient Started
+2025-07-03 22:04:38,471 - INFO - windows
+2025-07-03 22:04:38,472 - INFO - Listening Server
+2025-07-03 22:04:41,473 - INFO - Retry again
+2025-07-03 22:04:44,474 - INFO - Retry again
+2025-07-03 22:04:45,521 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:04:45,522 - INFO - ('192.168.1.102', 57383)
+2025-07-03 22:04:47,474 - INFO - Server Connected::192.168.1.102
+2025-07-03 22:04:47,476 - INFO - Client Join: ('192.168.1.102', 51504)
+2025-07-03 22:04:55,523 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:05:05,524 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:05:15,524 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:05:25,525 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:05:35,527 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:05:45,528 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:05:55,529 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:06:05,530 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:06:08,993 - INFO - Client ('192.168.1.102', 51504) Disconnection
+2025-07-03 22:06:13,312 - INFO - windows
+2025-07-03 22:06:13,312 - INFO - Listening Server
+2025-07-03 22:06:15,540 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:06:15,540 - INFO - ('192.168.1.102', 57383)
+2025-07-03 22:06:16,315 - INFO - Server Connected::192.168.1.102
+2025-07-03 22:06:16,316 - INFO - Client Join: ('192.168.1.102', 51510)
+2025-07-03 22:06:25,541 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:06:35,542 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:06:45,543 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:06:55,544 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:07:05,545 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:07:15,547 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:07:16,296 - INFO - Client ('192.168.1.102', 51510) Disconnection
+2025-07-03 22:07:20,072 - INFO - windows
+2025-07-03 22:07:20,072 - INFO - Listening Server
+2025-07-03 22:07:23,065 - INFO - Retry again
+2025-07-03 22:07:25,548 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:07:25,549 - INFO - ('192.168.1.102', 57383)
+2025-07-03 22:07:26,074 - INFO - Server Connected::192.168.1.102
+2025-07-03 22:07:26,075 - INFO - Client Join: ('192.168.1.102', 51517)
+2025-07-03 22:07:35,549 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:07:45,550 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:07:55,552 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:08:05,553 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:08:15,554 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:08:25,555 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:08:35,556 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:08:45,557 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:08:55,558 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:09:05,559 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:09:15,560 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:09:25,561 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:09:35,563 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:09:45,564 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:09:55,565 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:10:05,566 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:10:15,568 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:10:25,569 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:10:35,000 - INFO - Client ('192.168.1.102', 51517) Disconnection
+2025-07-03 22:10:35,000 - INFO - Server TCP is Closed
+2025-07-03 22:10:35,001 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-03 22:10:35,002 - INFO - HelloClient is closed
+2025-07-03 22:10:35,002 - INFO - Client ('192.168.1.102', 51517) Disconnection
+2025-07-03 22:10:35,578 - INFO - All Service Closed
+2025-07-03 22:10:42,766 - INFO - Listening bot
+2025-07-03 22:10:42,766 - INFO - Processes starting
+2025-07-03 22:10:42,766 - INFO - Server TCP Starting
+2025-07-03 22:10:42,767 - INFO - Server Listening...
+2025-07-03 22:10:42,767 - INFO - Server TCP Started
+2025-07-03 22:10:42,768 - INFO - HelloClient Server Starting
+2025-07-03 22:10:42,768 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:10:42,768 - INFO - HelloClient Started
+2025-07-03 22:10:46,668 - INFO - windows
+2025-07-03 22:10:46,668 - INFO - Listening Server
+2025-07-03 22:10:49,660 - INFO - Retry again
+2025-07-03 22:10:52,685 - INFO - Retry again
+2025-07-03 22:10:52,769 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:10:52,770 - INFO - ('192.168.1.102', 50917)
+2025-07-03 22:10:55,670 - INFO - Server Connected::192.168.1.102
+2025-07-03 22:10:55,672 - INFO - Client Join: ('192.168.1.102', 51547)
+2025-07-03 22:11:02,770 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:11:12,772 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:11:22,773 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:11:32,774 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:11:42,775 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:11:52,777 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:12:02,778 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:12:12,779 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:12:22,794 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:12:32,797 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:12:42,798 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:12:52,799 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:13:02,800 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:13:12,801 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:13:19,190 - INFO - Client ('192.168.1.102', 51547) Disconnection
+2025-07-03 22:13:19,190 - INFO - Server TCP is Closed
+2025-07-03 22:13:19,190 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-03 22:13:19,191 - INFO - HelloClient is closed
+2025-07-03 22:13:19,192 - INFO - Client ('192.168.1.102', 51547) Disconnection
+2025-07-03 22:13:22,802 - INFO - All Service Closed
+2025-07-03 22:13:23,216 - INFO - windows
+2025-07-03 22:13:23,217 - INFO - Listening Server
+2025-07-03 22:13:24,761 - INFO - Listening bot
+2025-07-03 22:13:24,761 - INFO - Processes starting
+2025-07-03 22:13:24,761 - INFO - Server TCP Starting
+2025-07-03 22:13:24,762 - INFO - Server TCP Started
+2025-07-03 22:13:24,762 - INFO - Server Listening...
+2025-07-03 22:13:24,763 - INFO - HelloClient Server Starting
+2025-07-03 22:13:24,763 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:13:24,764 - INFO - HelloClient Started
+2025-07-03 22:13:24,764 - INFO - ('192.168.1.102', 51434)
+2025-07-03 22:13:26,218 - INFO - Server Connected::192.168.1.102
+2025-07-03 22:13:26,219 - INFO - Client Join: ('192.168.1.102', 51564)
+2025-07-03 22:13:34,764 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:13:44,765 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:13:54,767 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:14:04,767 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:14:14,768 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:14:24,770 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:14:34,771 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:14:44,772 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:14:54,774 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:15:04,775 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:15:14,790 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:15:24,824 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:15:34,842 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:15:38,364 - INFO - Client ('192.168.1.102', 51564) Disconnection
+2025-07-03 22:15:38,365 - INFO - Server TCP is Closed
+2025-07-03 22:15:38,365 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-03 22:15:38,366 - INFO - HelloClient is closed
+2025-07-03 22:15:38,367 - INFO - Client ('192.168.1.102', 51564) Disconnection
+2025-07-03 22:15:44,861 - INFO - All Service Closed
+2025-07-03 22:15:46,501 - INFO - windows
+2025-07-03 22:15:46,501 - INFO - Listening Server
+2025-07-03 22:15:48,868 - INFO - Listening bot
+2025-07-03 22:15:48,869 - INFO - Processes starting
+2025-07-03 22:15:48,869 - INFO - Server TCP Starting
+2025-07-03 22:15:48,870 - INFO - Server Listening...
+2025-07-03 22:15:48,870 - INFO - Server TCP Started
+2025-07-03 22:15:48,871 - INFO - HelloClient Server Starting
+2025-07-03 22:15:48,871 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:15:48,871 - INFO - HelloClient Started
+2025-07-03 22:15:48,872 - INFO - ('192.168.1.102', 54108)
+2025-07-03 22:15:49,502 - INFO - Server Connected::192.168.1.102
+2025-07-03 22:15:49,504 - INFO - Client Join: ('192.168.1.102', 51576)
+2025-07-03 22:15:58,872 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:16:08,873 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:16:18,874 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:16:28,876 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:22:12,670 - INFO - Client ('192.168.1.102', 51576) Disconnection
+2025-07-03 22:22:12,672 - INFO - Server TCP is Closed
+2025-07-03 22:22:12,672 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-03 22:22:12,673 - INFO - HelloClient is closed
+2025-07-03 22:22:12,674 - INFO - Client ('192.168.1.102', 51576) Disconnection
+2025-07-03 22:22:31,239 - INFO - Listening bot
+2025-07-03 22:22:31,239 - INFO - Processes starting
+2025-07-03 22:22:31,239 - INFO - Server TCP Starting
+2025-07-03 22:22:31,240 - INFO - Server Listening...
+2025-07-03 22:22:31,241 - INFO - Server TCP Started
+2025-07-03 22:22:31,241 - INFO - HelloClient Server Starting
+2025-07-03 22:22:31,241 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:22:31,241 - INFO - HelloClient Started
+2025-07-03 22:22:41,243 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:22:43,437 - INFO - windows
+2025-07-03 22:22:43,437 - INFO - Listening Server
+2025-07-03 22:22:46,455 - INFO - Retry again
+2025-07-03 22:22:49,455 - INFO - Retry again
+2025-07-03 22:22:51,244 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:22:51,244 - INFO - ('192.168.1.102', 53901)
+2025-07-03 22:22:52,439 - INFO - Server Connected::192.168.1.102
+2025-07-03 22:22:52,441 - INFO - Client Join: ('192.168.1.102', 51614)
+2025-07-03 22:23:01,245 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:23:11,246 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:23:13,933 - ERROR - {'addr': ('192.168.1.102', 51614), 'ex': TypeError('Client.Client.sendData() argument after ** must be a mapping, not Pack')}
+2025-07-03 22:23:13,934 - INFO - Client ('192.168.1.102', 51614) Disconnection
+2025-07-03 22:23:17,454 - INFO - Server Connected::192.168.1.102
+2025-07-03 22:23:17,456 - INFO - Client Join: ('192.168.1.102', 51617)
+2025-07-03 22:23:21,247 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:23:31,248 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:23:41,249 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:23:51,250 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:24:01,251 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:24:11,252 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:24:21,253 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:24:31,255 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:24:41,256 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:24:51,257 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:25:01,258 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:25:11,259 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:25:21,260 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:25:31,264 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:25:41,265 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:25:51,266 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:26:01,267 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:26:11,268 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:26:21,269 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:26:31,270 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:26:41,272 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:26:51,273 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:27:01,274 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:27:11,275 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:27:21,278 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:27:31,279 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:27:41,284 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:27:51,285 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:28:01,287 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:28:11,288 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:28:21,289 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:28:31,289 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:28:41,291 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:28:43,942 - INFO - Client ('192.168.1.102', 51617) Disconnection
+2025-07-03 22:28:43,942 - INFO - Server TCP is Closed
+2025-07-03 22:28:43,942 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-03 22:28:43,944 - INFO - HelloClient is closed
+2025-07-03 22:28:43,944 - INFO - Client ('192.168.1.102', 51617) Disconnection
+2025-07-03 22:28:51,293 - INFO - All Service Closed
+2025-07-03 22:29:03,119 - INFO - Listening bot
+2025-07-03 22:29:03,120 - INFO - Processes starting
+2025-07-03 22:29:03,120 - INFO - Server TCP Starting
+2025-07-03 22:29:03,121 - INFO - Server Listening...
+2025-07-03 22:29:03,121 - INFO - Server TCP Started
+2025-07-03 22:29:03,121 - INFO - HelloClient Server Starting
+2025-07-03 22:29:03,122 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:29:03,122 - INFO - HelloClient Started
+2025-07-03 22:29:13,122 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:29:13,304 - INFO - windows
+2025-07-03 22:29:13,304 - INFO - Listening Server
+2025-07-03 22:29:16,299 - INFO - Retry again
+2025-07-03 22:29:19,321 - INFO - Retry again
+2025-07-03 22:29:22,322 - INFO - Retry again
+2025-07-03 22:29:23,123 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:29:23,124 - INFO - ('192.168.1.102', 55526)
+2025-07-03 22:29:25,306 - INFO - Server Connected::192.168.1.102
+2025-07-03 22:29:25,308 - INFO - Client Join: ('192.168.1.102', 51687)
+2025-07-03 22:29:33,124 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:29:43,126 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:29:53,127 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:30:03,128 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:30:11,767 - INFO - Client ('192.168.1.102', 51687) Disconnection
+2025-07-03 22:30:13,129 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:30:23,131 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:30:33,132 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:30:39,967 - INFO - Listening bot
+2025-07-03 22:30:39,968 - INFO - Processes starting
+2025-07-03 22:30:39,968 - INFO - Server TCP Starting
+2025-07-03 22:30:39,969 - INFO - Server Listening...
+2025-07-03 22:30:39,969 - INFO - Server TCP Started
+2025-07-03 22:30:39,969 - INFO - HelloClient Server Starting
+2025-07-03 22:30:39,970 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:30:39,970 - INFO - HelloClient Started
+2025-07-03 22:30:41,984 - INFO - Client Join: ('192.168.1.102', 51694)
+2025-07-03 22:30:49,971 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:30:59,972 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:31:09,972 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:31:19,974 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:31:29,975 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:31:39,976 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:31:49,977 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:31:59,978 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:32:09,979 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:32:19,980 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:32:29,981 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:32:36,668 - INFO - Client ('192.168.1.102', 51694) Disconnection
+2025-07-03 22:32:36,668 - INFO - Server TCP is Closed
+2025-07-03 22:32:36,668 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-03 22:32:36,670 - INFO - HelloClient is closed
+2025-07-03 22:32:36,671 - INFO - Client ('192.168.1.102', 51694) Disconnection
+2025-07-03 22:32:39,982 - INFO - All Service Closed
+2025-07-03 22:32:42,355 - INFO - Listening bot
+2025-07-03 22:32:42,356 - INFO - Processes starting
+2025-07-03 22:32:42,356 - INFO - Server TCP Starting
+2025-07-03 22:32:42,357 - INFO - Server Listening...
+2025-07-03 22:32:42,357 - INFO - Server TCP Started
+2025-07-03 22:32:42,357 - INFO - HelloClient Server Starting
+2025-07-03 22:32:42,357 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:32:42,358 - INFO - HelloClient Started
+2025-07-03 22:32:43,868 - INFO - Client Join: ('192.168.1.102', 51715)
+2025-07-03 22:32:52,358 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:33:02,360 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:33:12,361 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:33:22,362 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:33:32,363 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:33:42,364 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:33:52,365 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:34:02,366 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:34:12,368 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:34:22,369 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:34:32,399 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:34:42,415 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:34:52,416 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:35:02,417 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:35:12,419 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:35:22,420 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:35:32,421 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:35:42,422 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:35:52,423 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:36:02,424 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:36:12,425 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:36:22,426 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:36:32,427 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:36:42,428 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:36:52,429 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:37:02,430 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:37:12,432 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:37:22,433 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:37:32,434 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:37:42,435 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:37:52,436 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:38:02,437 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:38:12,438 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:38:22,439 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:38:32,440 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:38:42,441 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:38:52,442 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:39:02,443 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:39:12,444 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:39:22,446 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:39:32,447 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:39:42,448 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:39:52,450 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:40:02,451 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:40:12,452 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:40:22,453 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:40:32,454 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:40:42,455 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:40:52,456 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:41:02,457 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:41:12,458 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:41:22,459 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:41:32,461 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:41:42,462 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:41:52,463 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:42:02,465 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:42:12,466 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:42:22,467 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:42:32,469 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:42:42,470 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:42:52,471 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:43:02,473 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:43:12,474 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:43:22,476 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:43:32,477 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:43:42,478 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:43:52,479 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:44:02,481 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:44:12,483 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:44:22,483 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:44:32,484 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:44:42,485 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:44:52,486 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:45:02,487 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:45:12,489 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:45:22,489 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:45:32,490 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:45:42,491 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:45:52,492 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:46:02,493 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:46:12,494 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:46:22,495 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:46:32,496 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:46:42,497 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:46:52,498 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:47:02,499 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:47:12,500 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:47:22,501 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:47:32,502 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:47:42,503 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:47:52,504 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:48:02,505 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:48:12,506 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:48:22,507 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:48:32,508 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:48:42,509 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:48:52,510 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:49:02,511 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:49:12,512 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:49:22,513 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:49:32,514 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:49:42,515 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:49:52,516 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:50:02,517 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:50:12,518 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:50:22,519 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:50:32,520 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:50:42,521 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:50:52,522 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:51:02,523 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:51:12,524 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:51:22,525 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:51:32,526 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:51:42,527 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:51:52,528 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:52:02,529 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:52:12,530 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:52:22,531 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:52:32,532 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:52:42,533 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:52:52,534 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:53:02,535 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:53:12,536 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:53:22,537 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:53:32,538 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:53:42,539 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:53:52,540 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:54:02,541 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:54:12,543 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:54:22,544 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:54:32,546 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:54:42,547 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:54:52,548 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:55:02,550 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:55:12,512 - INFO - Client ('192.168.1.102', 51715) Disconnection
+2025-07-03 22:55:12,551 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:55:22,552 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:55:32,553 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:55:42,554 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:55:52,555 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:56:02,556 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:56:12,557 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:56:22,558 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:56:32,560 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:56:42,561 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:56:52,562 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:57:02,563 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:57:12,564 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:57:22,565 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:57:32,566 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:57:42,567 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:57:52,568 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:58:02,569 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:58:12,570 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:58:22,572 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:58:32,573 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:58:42,574 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:58:52,575 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:59:02,576 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:59:12,577 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:59:22,578 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:59:32,579 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:59:42,584 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 22:59:52,588 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:00:02,589 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:00:12,590 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:00:22,591 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:00:32,593 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:00:42,604 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:00:52,621 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:01:02,622 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:01:12,623 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:01:22,624 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:01:32,638 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:01:42,699 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:01:52,700 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:02:02,701 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:02:12,702 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:02:22,703 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:02:32,704 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:02:42,705 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:02:52,706 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:03:02,707 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:03:12,708 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:03:22,709 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:03:32,710 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:03:42,711 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:03:52,713 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:04:02,714 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:04:12,715 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:04:22,716 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:04:32,717 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:04:42,719 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:04:52,720 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:05:02,721 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:05:12,722 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:05:22,724 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:05:32,725 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:05:42,726 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:05:52,727 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:06:02,728 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:06:12,730 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:06:22,731 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:06:32,732 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:06:42,733 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:06:52,735 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:07:02,735 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:07:12,751 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:07:22,785 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:07:32,786 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:07:42,787 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:07:52,788 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:08:02,789 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:08:12,790 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:08:22,791 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:08:32,792 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:08:42,793 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:08:52,794 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:09:02,805 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:09:12,835 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:09:22,836 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:09:32,837 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:09:42,839 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:09:52,840 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:10:02,841 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:10:12,842 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:10:22,843 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:10:32,845 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:10:42,846 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:10:52,847 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:11:02,848 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:11:12,849 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:11:22,850 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:11:32,851 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:11:42,852 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:11:52,853 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:12:02,853 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:12:12,854 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:12:22,856 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:12:32,857 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:12:42,858 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:12:52,859 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:13:02,861 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:13:12,862 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:13:22,863 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:13:32,864 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:13:42,865 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:13:52,866 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:14:02,867 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:14:12,869 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:14:22,870 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:14:32,888 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:14:42,897 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:14:52,898 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:15:02,899 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:15:12,900 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:15:22,901 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:15:32,901 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:15:42,903 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:15:52,904 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:16:02,905 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:16:12,906 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:16:22,907 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:16:32,908 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:16:42,909 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:16:52,910 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:17:02,911 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:17:12,912 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:17:22,913 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:17:32,914 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:17:42,915 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:17:52,916 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:18:02,917 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:18:12,918 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:18:22,919 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:18:32,920 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:18:42,921 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:18:52,922 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:19:02,923 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:19:12,924 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:19:22,926 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:19:32,927 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:19:42,928 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:19:52,929 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:20:02,930 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:20:12,931 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:20:22,932 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:20:32,934 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:20:42,935 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:20:52,936 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:21:02,937 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:21:12,938 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:21:22,940 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:21:32,941 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:21:42,942 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:21:52,943 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:22:02,944 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:22:12,945 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:22:22,946 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:22:32,947 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:22:42,948 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:22:52,950 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:23:02,951 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:23:12,952 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:23:22,953 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:23:32,954 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:23:42,956 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:23:52,957 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:24:02,971 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:24:12,973 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:24:22,974 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:24:32,975 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:24:42,976 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:24:52,977 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:25:02,978 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:25:12,979 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:25:22,980 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:25:32,982 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:25:42,983 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:25:52,984 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:26:02,985 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:26:12,986 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:26:22,987 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:26:32,989 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:26:42,989 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:26:52,990 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:27:02,992 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:27:12,993 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:27:22,994 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:27:32,995 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:27:42,997 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:27:52,998 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:28:02,999 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:28:13,000 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:28:23,002 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:28:33,003 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:28:43,004 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:28:53,005 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:29:03,006 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:29:13,007 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:29:23,008 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:29:33,009 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:29:43,010 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:29:53,011 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:30:03,013 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:30:13,014 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:30:23,015 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:30:33,016 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:30:43,017 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:30:53,018 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:31:03,425 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:31:13,426 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:31:23,427 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:31:33,428 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:31:43,429 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:31:53,431 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:32:03,432 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:32:13,433 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:32:23,434 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:32:33,435 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:32:43,436 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:32:53,438 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:33:03,439 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:33:13,440 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:33:23,441 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:33:33,442 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:33:43,444 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:33:53,445 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:34:03,446 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:34:13,447 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:34:23,448 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:34:33,449 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:34:43,450 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:34:53,451 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:35:03,452 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:35:13,453 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:35:23,454 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:35:33,455 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:35:43,457 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:35:53,458 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:36:03,459 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:36:13,460 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:36:23,461 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:36:33,462 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:36:43,463 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:36:53,464 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:37:03,465 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:37:13,466 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:37:23,468 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:37:33,469 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:37:43,470 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:37:53,471 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:38:03,472 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:38:13,474 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:38:23,475 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:38:33,476 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:38:43,477 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:38:53,478 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:39:03,479 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:39:13,480 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:39:23,481 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:39:33,482 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:39:43,483 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:39:53,483 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:40:03,485 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:40:13,486 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:40:23,487 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:40:33,488 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:40:43,489 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:40:53,490 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:41:03,491 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:41:13,492 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:41:23,493 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:41:33,494 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:41:43,495 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:41:53,496 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:42:03,497 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:42:13,498 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:42:23,499 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:42:33,500 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:42:43,502 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:42:53,503 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:43:03,504 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:43:13,505 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:43:23,506 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:43:33,507 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:43:43,508 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:43:53,509 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:44:03,510 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:44:13,511 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:44:23,512 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:44:33,513 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:44:43,514 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:44:53,515 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:45:03,516 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:45:13,517 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:45:23,519 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:45:33,520 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:45:43,521 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:45:53,522 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:46:03,523 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:46:13,524 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:46:23,525 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:46:33,526 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:46:43,527 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:46:53,528 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:47:03,529 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:47:13,530 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:47:23,532 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:47:33,533 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:47:43,534 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:47:53,535 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:48:03,536 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:48:13,537 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:48:23,538 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:48:33,540 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:48:43,540 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:48:53,541 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:49:03,543 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:49:13,544 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:49:23,545 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:49:33,546 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:49:43,547 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:49:53,548 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:50:03,549 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:50:13,550 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:50:23,551 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:50:33,552 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:50:43,553 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:50:53,554 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:51:03,556 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:51:13,557 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:51:23,558 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:51:33,558 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:51:43,560 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:51:53,561 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:52:03,562 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:52:13,563 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:52:23,564 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:52:33,565 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:52:43,566 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:52:53,567 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:53:03,568 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:53:13,569 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:53:23,570 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:53:33,571 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:53:43,572 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:53:53,573 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:54:03,574 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:54:13,576 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:54:23,577 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:54:33,578 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:54:43,579 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:54:53,580 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:55:03,581 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:55:13,582 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:55:23,583 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:55:33,584 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:55:43,585 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:55:53,586 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:56:03,587 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:56:13,588 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:56:23,589 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:56:33,590 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:56:43,591 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:56:53,592 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:57:03,593 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:57:13,594 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:57:23,595 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:57:33,596 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:57:43,597 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:57:53,598 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:58:03,599 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:58:13,600 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:58:23,601 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:58:33,602 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:58:43,603 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:58:53,604 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:59:03,606 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:59:13,607 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:59:23,608 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:59:33,609 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:59:43,610 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-03 23:59:53,611 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:00:03,612 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:00:13,613 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:00:23,614 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:00:33,615 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:00:43,616 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:00:53,617 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:01:03,619 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:01:13,620 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:01:23,621 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:01:33,622 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:01:43,623 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:01:53,624 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:02:03,625 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:02:13,626 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:02:23,627 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:02:33,628 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:02:43,630 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:02:53,631 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:03:03,631 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:03:13,633 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:03:23,634 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:03:33,635 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:03:43,636 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:03:53,637 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:04:03,638 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:04:13,639 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:04:23,640 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:04:33,641 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:04:43,642 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:04:53,643 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:05:03,644 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:05:13,645 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:05:23,646 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:05:33,647 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:05:43,648 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:05:53,649 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:06:03,650 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:06:13,651 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:06:23,652 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:06:33,653 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:06:43,654 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:06:53,655 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:07:03,656 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:07:13,657 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:07:23,657 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:07:33,658 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:07:43,660 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:07:53,661 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:08:03,662 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:08:13,663 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:08:23,664 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:08:33,665 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:08:43,666 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:08:53,667 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:09:03,668 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:09:13,669 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:09:23,670 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:09:33,671 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:09:43,672 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:09:53,673 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:10:03,674 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:10:13,675 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:10:23,676 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:10:33,678 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:10:43,678 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:10:53,680 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:11:03,681 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:11:13,682 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:11:23,683 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:11:33,684 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:11:43,685 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:11:53,687 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:12:03,688 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:12:13,689 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:12:23,691 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:12:33,691 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:12:43,692 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:12:53,693 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:13:03,695 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:13:13,696 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 00:13:23,697 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 12:59:27,680 - INFO - Listening bot
+2025-07-04 12:59:27,681 - INFO - Processes starting
+2025-07-04 12:59:27,681 - INFO - Server TCP Starting
+2025-07-04 12:59:27,682 - INFO - Server Listening...
+2025-07-04 12:59:27,682 - INFO - Server TCP Started
+2025-07-04 12:59:27,682 - INFO - HelloClient Server Starting
+2025-07-04 12:59:27,683 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 12:59:27,683 - INFO - HelloClient Started
+2025-07-04 12:59:37,684 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 12:59:47,685 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 12:59:48,657 - INFO - Client Join: ('192.168.1.102', 50416)
+2025-07-04 12:59:57,686 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:00:07,687 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:00:17,688 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:00:27,689 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:00:37,690 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:00:47,691 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:00:57,692 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:00:59,303 - INFO - Client ('192.168.1.102', 50416) Disconnection
+2025-07-04 13:00:59,303 - INFO - Server TCP is Closed
+2025-07-04 13:00:59,303 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-04 13:00:59,305 - INFO - HelloClient is closed
+2025-07-04 13:00:59,305 - INFO - Client ('192.168.1.102', 50416) Disconnection
+2025-07-04 13:01:07,693 - INFO - All Service Closed
+2025-07-04 13:07:47,159 - INFO - Listening bot
+2025-07-04 13:07:47,159 - INFO - Processes starting
+2025-07-04 13:07:47,160 - INFO - Server TCP Starting
+2025-07-04 13:07:47,161 - INFO - Server Listening...
+2025-07-04 13:07:47,161 - INFO - Server TCP Started
+2025-07-04 13:07:47,161 - INFO - HelloClient Server Starting
+2025-07-04 13:07:47,162 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:07:47,162 - INFO - HelloClient Started
+2025-07-04 13:07:57,162 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:07:57,713 - INFO - Client Join: ('192.168.1.102', 50471)
+2025-07-04 13:08:03,340 - ERROR - {'addr': ('192.168.1.102', 50471), 'ex': ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)}
+2025-07-04 13:08:03,341 - INFO - Client ('192.168.1.102', 50471) Disconnection
+2025-07-04 13:08:07,163 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:08:09,540 - INFO - Client Join: ('192.168.1.102', 50475)
+2025-07-04 13:08:17,164 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:08:27,166 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:08:37,167 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:08:47,168 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:08:57,169 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:08:59,914 - INFO - Client ('192.168.1.102', 50475) Disconnection
+2025-07-04 13:09:07,170 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:09:08,841 - INFO - Client Join: ('192.168.1.102', 50481)
+2025-07-04 13:09:13,331 - INFO - Client ('192.168.1.102', 50481) Disconnection
+2025-07-04 13:09:13,331 - INFO - Server TCP is Closed
+2025-07-04 13:09:13,332 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-04 13:09:13,333 - INFO - HelloClient is closed
+2025-07-04 13:09:13,333 - INFO - Client ('192.168.1.102', 50481) Disconnection
+2025-07-04 13:09:17,172 - INFO - All Service Closed
+2025-07-04 13:17:28,382 - INFO - Listening bot
+2025-07-04 13:17:28,383 - INFO - Processes starting
+2025-07-04 13:17:28,383 - INFO - Server TCP Starting
+2025-07-04 13:17:28,384 - INFO - Server Listening...
+2025-07-04 13:17:28,384 - INFO - Server TCP Started
+2025-07-04 13:17:28,385 - INFO - HelloClient Server Starting
+2025-07-04 13:17:28,385 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:17:28,385 - INFO - HelloClient Started
+2025-07-04 13:17:38,386 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:17:48,387 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:17:58,388 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:18:00,540 - INFO - Client Join: ('192.168.1.102', 50563)
+2025-07-04 13:18:08,389 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:18:18,391 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:18:24,903 - INFO - Client ('192.168.1.102', 50563) Disconnection
+2025-07-04 13:18:28,392 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:18:38,393 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:18:48,394 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:18:48,586 - INFO - Client Join: ('192.168.1.102', 50571)
+2025-07-04 13:18:58,396 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:19:01,098 - INFO - Client Join: ('192.168.1.102', 50573)
+2025-07-04 13:19:08,397 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:19:18,398 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:19:28,399 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:19:38,400 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:19:46,076 - INFO - Client ('192.168.1.102', 50571) Disconnection
+2025-07-04 13:19:48,303 - ERROR - {'addr': ('192.168.1.102', 50573), 'ex': OSError(10038, 'An operation was attempted on something that is not a socket', None, 10038, None)}
+2025-07-04 13:19:48,303 - INFO - Client ('192.168.1.102', 50573) Disconnection
+2025-07-04 13:19:48,401 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:19:49,609 - INFO - Client Join: ('192.168.1.102', 50576)
+2025-07-04 13:19:52,118 - INFO - Client Join: ('192.168.1.102', 50578)
+2025-07-04 13:19:58,402 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:20:08,404 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:20:18,404 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:20:28,405 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:20:32,653 - INFO - Client ('192.168.1.102', 50578) Disconnection
+2025-07-04 13:20:38,406 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:20:38,816 - INFO - Client Join: ('192.168.1.102', 50582)
+2025-07-04 13:20:48,408 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:20:58,409 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:21:03,566 - ERROR - {'addr': ('192.168.1.102', 50582), 'ex': OSError(10038, 'An operation was attempted on something that is not a socket', None, 10038, None)}
+2025-07-04 13:21:03,566 - INFO - Client ('192.168.1.102', 50582) Disconnection
+2025-07-04 13:21:06,831 - INFO - Client Join: ('192.168.1.102', 50585)
+2025-07-04 13:21:08,410 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:21:18,412 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:22:32,413 - ERROR - {'addr': ('192.168.1.102', 50585), 'ex': OSError(10038, 'An operation was attempted on something that is not a socket', None, 10038, None)}
+2025-07-04 13:22:32,413 - INFO - Client ('192.168.1.102', 50585) Disconnection
+2025-07-04 13:22:35,396 - INFO - Client Join: ('192.168.1.102', 50590)
+2025-07-04 13:22:42,094 - ERROR - {'addr': ('192.168.1.102', 50576), 'ex': ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)}
+2025-07-04 13:22:42,095 - INFO - Client ('192.168.1.102', 50576) Disconnection
+2025-07-04 13:22:42,413 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:22:52,414 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:22:53,278 - INFO - Client Join: ('192.168.1.102', 50593)
+2025-07-04 13:23:02,415 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:23:12,416 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:23:22,417 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:23:31,785 - INFO - Client ('192.168.1.102', 50593) Disconnection
+2025-07-04 13:23:32,418 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:23:35,295 - INFO - Client Join: ('192.168.1.102', 50596)
+2025-07-04 13:23:42,419 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:23:52,420 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:24:02,421 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:24:12,422 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:24:22,423 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:24:32,424 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:24:42,425 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:24:46,778 - INFO - Client ('192.168.1.102', 50571) Disconnection
+2025-07-04 13:24:46,779 - INFO - Client ('192.168.1.102', 50576) Disconnection
+2025-07-04 13:24:46,779 - INFO - Server TCP is Closed
+2025-07-04 13:24:46,779 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-04 13:24:46,780 - INFO - HelloClient is closed
+2025-07-04 13:24:52,426 - INFO - All Service Closed
+2025-07-04 13:25:20,466 - INFO - Client ('192.168.1.102', 50590) Disconnection
+2025-07-04 13:25:24,155 - ERROR - {'addr': ('192.168.1.102', 50596), 'ex': ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)}
+2025-07-04 13:25:24,159 - INFO - Client ('192.168.1.102', 50596) Disconnection
+2025-07-04 13:25:32,851 - INFO - Listening bot
+2025-07-04 13:25:32,851 - INFO - Processes starting
+2025-07-04 13:25:32,851 - INFO - Server TCP Starting
+2025-07-04 13:25:32,852 - INFO - Server Listening...
+2025-07-04 13:25:32,852 - INFO - Server TCP Started
+2025-07-04 13:25:32,853 - INFO - HelloClient Server Starting
+2025-07-04 13:25:32,853 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:25:32,853 - INFO - HelloClient Started
+2025-07-04 13:25:34,483 - INFO - Client Join: ('192.168.1.102', 50602)
+2025-07-04 13:25:42,854 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:25:45,322 - INFO - Client Join: ('192.168.1.102', 50606)
+2025-07-04 13:25:52,856 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:26:02,857 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:26:12,391 - INFO - Client ('192.168.1.102', 50602) Disconnection
+2025-07-04 13:26:12,858 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:26:15,500 - INFO - Client Join: ('192.168.1.102', 50608)
+2025-07-04 13:26:22,859 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:26:32,860 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:26:42,862 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:26:52,863 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:27:02,864 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:27:12,866 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:27:22,867 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:27:32,868 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:27:42,869 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:27:52,870 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:28:02,871 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:28:12,872 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:28:22,873 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:28:32,875 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:28:42,876 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:28:52,877 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:29:02,878 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:29:12,880 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:29:22,881 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:29:32,882 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:29:42,883 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:29:52,884 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:30:02,885 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:30:12,886 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:30:22,888 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:30:32,889 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:30:42,889 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:30:52,891 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:31:02,892 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:31:04,643 - ERROR - {'addr': ('192.168.1.102', 50608), 'ex': ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)}
+2025-07-04 13:31:04,644 - INFO - Client ('192.168.1.102', 50608) Disconnection
+2025-07-04 13:31:12,893 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:31:13,107 - INFO - Client Join: ('192.168.1.102', 50645)
+2025-07-04 13:31:22,894 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:31:26,765 - INFO - Client ('192.168.1.102', 50645) Disconnection
+2025-07-04 13:31:30,116 - INFO - Client Join: ('192.168.1.102', 50648)
+2025-07-04 13:31:32,895 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:31:42,896 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:31:52,898 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:32:02,899 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:32:12,900 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:32:22,901 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:32:32,902 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:32:42,903 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:32:52,904 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:32:53,724 - ERROR - {'addr': ('192.168.1.102', 50648), 'ex': ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)}
+2025-07-04 13:32:53,727 - INFO - Client ('192.168.1.102', 50648) Disconnection
+2025-07-04 13:33:02,905 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:33:04,909 - INFO - Client Join: ('192.168.1.102', 50665)
+2025-07-04 13:33:12,906 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:33:15,145 - INFO - Client ('192.168.1.102', 50665) Disconnection
+2025-07-04 13:33:18,916 - INFO - Client Join: ('192.168.1.102', 50667)
+2025-07-04 13:33:22,907 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:33:32,908 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:33:42,910 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:33:52,912 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:34:02,913 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:34:03,415 - INFO - Client ('192.168.1.102', 50606) Disconnection
+2025-07-04 13:34:08,705 - ERROR - {'addr': ('192.168.1.102', 50667), 'ex': ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)}
+2025-07-04 13:34:08,706 - INFO - Client ('192.168.1.102', 50667) Disconnection
+2025-07-04 13:34:12,914 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:34:15,717 - INFO - Client Join: ('192.168.1.102', 50679)
+2025-07-04 13:34:22,915 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:34:25,304 - INFO - Client Join: ('192.168.1.102', 50682)
+2025-07-04 13:34:32,916 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:34:40,616 - INFO - Client ('192.168.1.102', 50682) Disconnection
+2025-07-04 13:34:42,918 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:34:44,313 - INFO - Client Join: ('192.168.1.102', 50685)
+2025-07-04 13:34:52,919 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:35:02,920 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:35:12,921 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:35:22,922 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:35:32,923 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:35:42,924 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:35:52,925 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:35:59,269 - ERROR - {'addr': ('192.168.1.102', 50685), 'ex': ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)}
+2025-07-04 13:35:59,270 - INFO - Client ('192.168.1.102', 50685) Disconnection
+2025-07-04 13:36:02,927 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:36:04,531 - INFO - Client Join: ('192.168.1.102', 50697)
+2025-07-04 13:36:12,928 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:36:17,527 - INFO - Client ('192.168.1.102', 50697) Disconnection
+2025-07-04 13:36:20,539 - INFO - Client Join: ('192.168.1.102', 50699)
+2025-07-04 13:36:22,929 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:36:32,930 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:36:42,931 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:36:52,933 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:37:02,934 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:37:11,566 - ERROR - {'addr': ('192.168.1.102', 50699), 'ex': ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)}
+2025-07-04 13:37:11,567 - INFO - Client ('192.168.1.102', 50699) Disconnection
+2025-07-04 13:37:12,935 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:37:22,936 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:37:25,720 - INFO - Client Join: ('192.168.1.102', 50707)
+2025-07-04 13:37:32,937 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:37:42,938 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:37:52,939 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:38:00,934 - INFO - Client ('192.168.1.102', 50707) Disconnection
+2025-07-04 13:38:02,940 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:38:04,737 - INFO - Client Join: ('192.168.1.102', 50711)
+2025-07-04 13:38:12,942 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:38:16,393 - ERROR - {'addr': ('192.168.1.102', 50711), 'ex': ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)}
+2025-07-04 13:38:16,401 - INFO - Client ('192.168.1.102', 50711) Disconnection
+2025-07-04 13:38:22,943 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:38:24,628 - INFO - Client Join: ('192.168.1.102', 50716)
+2025-07-04 13:38:32,944 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:38:42,945 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:38:52,946 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:39:02,947 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:39:12,948 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:39:22,949 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:39:32,951 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:39:42,951 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:39:52,952 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:40:02,954 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:40:12,955 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:40:19,956 - INFO - Client ('192.168.1.102', 50679) Disconnection
+2025-07-04 13:40:22,956 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:40:25,991 - ERROR - {'addr': ('192.168.1.102', 50716), 'ex': ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)}
+2025-07-04 13:40:25,997 - INFO - Client ('192.168.1.102', 50716) Disconnection
+2025-07-04 13:40:32,957 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:40:42,958 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:40:44,423 - INFO - Client Join: ('192.168.1.102', 50728)
+2025-07-04 13:40:52,959 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:40:55,039 - INFO - Client Join: ('192.168.1.102', 50732)
+2025-07-04 13:41:02,961 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:41:12,962 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:41:22,165 - INFO - Client ('192.168.1.102', 50732) Disconnection
+2025-07-04 13:41:22,963 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:41:26,053 - INFO - Client Join: ('192.168.1.102', 50734)
+2025-07-04 13:41:32,964 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:41:42,965 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:41:44,860 - ERROR - {'addr': ('192.168.1.102', 50734), 'ex': ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)}
+2025-07-04 13:41:44,861 - INFO - Client ('192.168.1.102', 50734) Disconnection
+2025-07-04 13:41:52,967 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:42:02,968 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:42:12,969 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:42:22,970 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:42:32,971 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:42:42,973 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:42:52,974 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:43:02,975 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:43:12,976 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:43:22,977 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:50:00,374 - INFO - Client ('192.168.1.102', 50602) Disconnection
+2025-07-04 13:50:10,903 - INFO - Client ('192.168.1.102', 50679) Disconnection
+2025-07-04 13:50:10,903 - INFO - Client ('192.168.1.102', 50728) Disconnection
+2025-07-04 13:50:10,903 - INFO - Server TCP is Closed
+2025-07-04 13:50:10,903 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-04 13:50:10,904 - INFO - HelloClient is closed
+2025-07-04 13:50:10,904 - INFO - Client ('192.168.1.102', 50728) Disconnection
+2025-07-04 13:50:20,902 - INFO - All Service Closed
+2025-07-04 13:50:23,821 - INFO - Listening bot
+2025-07-04 13:50:23,821 - INFO - Processes starting
+2025-07-04 13:50:23,821 - INFO - Server TCP Starting
+2025-07-04 13:50:23,822 - INFO - Server Listening...
+2025-07-04 13:50:23,822 - INFO - Server TCP Started
+2025-07-04 13:50:23,823 - INFO - HelloClient Server Starting
+2025-07-04 13:50:23,823 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:50:23,823 - INFO - HelloClient Started
+2025-07-04 13:50:24,126 - INFO - Client Join: ('192.168.1.102', 50816)
+2025-07-04 13:50:33,824 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:50:43,825 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:50:53,826 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:51:03,828 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:51:13,829 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:51:23,830 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:51:33,830 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:51:35,925 - INFO - Client Join: ('192.168.1.102', 50822)
+2025-07-04 13:51:43,832 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:51:53,833 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:51:54,031 - INFO - Client ('192.168.1.102', 50816) Disconnection
+2025-07-04 13:51:57,181 - INFO - Client Join: ('192.168.1.102', 50824)
+2025-07-04 13:52:00,727 - INFO - Client ('192.168.1.102', 50822) Disconnection
+2025-07-04 13:52:03,834 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:52:13,359 - ERROR - {'addr': ('192.168.1.102', 50824), 'ex': ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)}
+2025-07-04 13:52:13,360 - INFO - Client ('192.168.1.102', 50824) Disconnection
+2025-07-04 13:52:13,836 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:52:14,489 - INFO - Client Join: ('192.168.1.102', 50829)
+2025-07-04 13:52:16,215 - INFO - Client ('192.168.1.102', 50829) Disconnection
+2025-07-04 13:52:23,837 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:52:24,686 - INFO - Client Join: ('192.168.1.102', 50833)
+2025-07-04 13:52:33,838 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:52:34,594 - INFO - Client Join: ('192.168.1.102', 50835)
+2025-07-04 13:52:43,839 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:52:53,841 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:53:03,842 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:53:13,843 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:53:23,844 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:53:33,845 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:53:43,847 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:53:53,848 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:54:03,849 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:54:13,850 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:54:23,851 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:54:33,852 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:54:43,854 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:54:53,855 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:55:03,856 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:55:13,857 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:55:23,859 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:55:33,860 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:55:43,861 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:55:53,862 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:56:03,863 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:56:13,864 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:56:23,865 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:56:33,867 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:56:43,868 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:56:53,869 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:57:03,870 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:57:13,871 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:57:23,873 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:57:33,874 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:57:43,875 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:57:53,876 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:58:03,877 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:58:13,878 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:58:23,880 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:58:33,881 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:58:43,887 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:58:53,898 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:59:03,899 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:59:13,900 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 13:59:22,960 - INFO - Client ('192.168.1.102', 50816) Disconnection
+2025-07-04 13:59:22,961 - INFO - Client ('192.168.1.102', 50833) Disconnection
+2025-07-04 13:59:22,963 - ERROR - {'addr': ('192.168.1.102', 50833), 'ex': OSError(10038, 'An operation was attempted on something that is not a socket', None, 10038, None)}
+2025-07-04 13:59:22,963 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-04 13:59:22,963 - INFO - Server TCP is Closed
+2025-07-04 13:59:22,963 - INFO - Client ('192.168.1.102', 50833) Disconnection
+2025-07-04 13:59:22,964 - INFO - HelloClient is closed
+2025-07-04 13:59:33,304 - INFO - Client ('192.168.1.102', 50835) Disconnection
+2025-07-04 21:07:06,748 - INFO - Listening bot
+2025-07-04 21:07:06,749 - INFO - Processes starting
+2025-07-04 21:07:06,749 - INFO - Server TCP Starting
+2025-07-04 21:07:06,750 - INFO - Server Listening...
+2025-07-04 21:07:06,750 - INFO - Server TCP Started
+2025-07-04 21:07:06,751 - INFO - HelloClient Server Starting
+2025-07-04 21:07:06,751 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:07:06,751 - INFO - HelloClient Started
+2025-07-04 21:07:16,752 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:07:26,754 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:07:27,501 - INFO - Client Join: ('192.168.1.102', 50020)
+2025-07-04 21:07:36,755 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:07:46,756 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:07:56,757 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:08:06,758 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:08:16,759 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:08:26,761 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:08:36,762 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:08:46,763 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:08:56,764 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:09:06,766 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:09:16,767 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:09:26,768 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:09:36,769 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:09:42,092 - INFO - Client ('192.168.1.102', 50020) Disconnection
+2025-07-04 21:09:42,092 - INFO - Server TCP is Closed
+2025-07-04 21:09:42,093 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-04 21:09:42,095 - INFO - HelloClient is closed
+2025-07-04 21:09:42,096 - INFO - Client ('192.168.1.102', 50020) Disconnection
+2025-07-04 21:09:46,771 - INFO - All Service Closed
+2025-07-04 21:10:20,130 - INFO - Listening bot
+2025-07-04 21:10:20,131 - INFO - Processes starting
+2025-07-04 21:10:20,131 - INFO - Server TCP Starting
+2025-07-04 21:10:20,132 - INFO - Server Listening...
+2025-07-04 21:10:20,132 - INFO - Server TCP Started
+2025-07-04 21:10:20,133 - INFO - HelloClient Server Starting
+2025-07-04 21:10:20,133 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:10:20,133 - INFO - HelloClient Started
+2025-07-04 21:10:21,834 - INFO - Client Join: ('192.168.1.102', 50041)
+2025-07-04 21:10:30,134 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:10:31,733 - INFO - Client Join: ('192.168.1.102', 50043)
+2025-07-04 21:10:40,135 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:10:50,136 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-04 21:10:56,387 - INFO - Client ('192.168.1.102', 50041) Disconnection
+2025-07-04 21:10:56,388 - ERROR - {'addr': ('192.168.1.102', 50041), 'ex': OSError(10038, 'An operation was attempted on something that is not a socket', None, 10038, None)}
+2025-07-04 21:10:56,388 - ERROR - [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-04 21:10:56,388 - INFO - Server TCP is Closed
+2025-07-04 21:10:56,389 - INFO - Client ('192.168.1.102', 50041) Disconnection
+2025-07-04 21:10:56,390 - INFO - HelloClient is closed
+2025-07-04 21:11:00,137 - INFO - All Service Closed
+2025-07-04 23:01:43,158 - INFO - Client ('192.168.1.102', 50043) Disconnection
+2025-07-19 21:27:24,370 - INFO - Listening bot
+2025-07-19 21:27:24,370 - INFO - Processes starting
+2025-07-19 21:27:24,371 - INFO - Server TCP Starting
+2025-07-19 21:27:24,372 - INFO - Server Listening...
+2025-07-19 21:27:24,372 - INFO - Server TCP Started
+2025-07-19 21:27:24,373 - INFO - HelloClient Server Starting
+2025-07-19 21:27:24,373 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:27:24,373 - INFO - HelloClient Started
+2025-07-19 21:52:57,064 - INFO - Listening bot
+2025-07-19 21:52:57,065 - INFO - Processes starting
+2025-07-19 21:52:57,065 - INFO - Server TCP Starting
+2025-07-19 21:52:57,066 - INFO - Server Listening...
+2025-07-19 21:52:57,066 - INFO - Server TCP Started
+2025-07-19 21:52:57,066 - INFO - HelloClient Server Starting
+2025-07-19 21:52:57,067 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:52:57,067 - INFO - HelloClient Started
+2025-07-19 21:53:07,068 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:53:09,911 - INFO - Client Join: ('192.168.1.102', 50138)
+2025-07-19 21:53:17,070 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:53:27,071 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:53:30,563 - ERROR - {'addr': ('192.168.1.102', 50138), 'ex': ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)}
+2025-07-19 21:53:30,564 - INFO - Client ('192.168.1.102', 50138) Disconnection
+2025-07-19 21:53:37,074 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:53:47,077 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:53:47,864 - INFO - Client Join: ('192.168.1.102', 50141)
+2025-07-19 21:53:57,078 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:53:59,827 - INFO - Client ('192.168.1.102', 50141) Disconnection
+2025-07-19 21:54:07,079 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:54:08,719 - INFO - Client Join: ('192.168.1.102', 50151)
+2025-07-19 21:54:15,921 - INFO - Client ('192.168.1.102', 50151) Disconnection
+2025-07-19 21:54:17,080 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:54:27,081 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:54:37,090 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:54:47,091 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:54:57,091 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:55:07,092 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:55:17,094 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:55:27,095 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:55:37,096 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:55:47,097 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:55:57,099 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:56:07,100 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:56:17,101 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:56:27,102 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:56:37,103 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:56:47,104 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:56:57,105 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:57:07,106 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:57:17,107 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:57:27,109 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:57:37,110 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:57:47,111 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:57:57,112 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:58:07,114 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:58:17,115 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:58:27,115 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:58:37,116 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:58:47,117 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:58:57,118 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:59:07,119 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:59:17,121 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:59:27,122 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:59:37,123 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:59:47,124 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 21:59:57,125 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:00:07,126 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:00:17,128 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:00:27,129 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:00:37,130 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:00:47,131 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:00:49,401 - INFO - Client Join: ('192.168.1.102', 50212)
+2025-07-19 22:00:54,390 - INFO - Client ('192.168.1.102', 50138) Disconnection
+2025-07-19 22:00:54,390 - ERROR - {'addr': ('192.168.1.102', 50212), 'ex': TypeError('socket.shutdown() takes exactly one argument (0 given)')}
+2025-07-19 22:00:54,392 - INFO - Client ('192.168.1.102', 50212) Disconnection
+2025-07-19 22:00:57,132 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:00:57,408 - INFO - Client Join: ('192.168.1.102', 50214)
+2025-07-19 22:01:03,024 - INFO - Listening bot
+2025-07-19 22:01:03,025 - INFO - Processes starting
+2025-07-19 22:01:03,025 - INFO - Server TCP Starting
+2025-07-19 22:01:03,026 - INFO - Server Listening...
+2025-07-19 22:01:03,026 - INFO - Server TCP Started
+2025-07-19 22:01:03,026 - INFO - HelloClient Server Starting
+2025-07-19 22:01:03,027 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:01:03,027 - INFO - HelloClient Started
+2025-07-19 22:01:04,414 - INFO - Client Join: ('192.168.1.102', 50216)
+2025-07-19 22:01:13,027 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:01:17,630 - INFO - Client ('192.168.1.102', 50216) Disconnection
+2025-07-19 22:01:23,029 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:01:33,030 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:01:33,374 - INFO - Client Join: ('192.168.1.102', 50219)
+2025-07-19 22:01:43,031 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:01:53,032 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:02:03,032 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:02:13,034 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:02:23,035 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:02:33,036 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:02:43,037 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:02:53,039 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:03:03,042 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:03:12,221 - INFO - Client ('192.168.1.102', 50219) Disconnection
+2025-07-19 22:03:13,043 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:11:12,738 - INFO - Listening bot
+2025-07-19 22:11:12,739 - INFO - Processes starting
+2025-07-19 22:11:12,739 - INFO - Server TCP Starting
+2025-07-19 22:11:12,740 - INFO - Server Listening...
+2025-07-19 22:11:12,740 - INFO - Server TCP Started
+2025-07-19 22:11:12,740 - INFO - HelloClient Server Starting
+2025-07-19 22:11:12,741 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:11:12,741 - INFO - HelloClient Started
+2025-07-19 22:11:22,741 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:11:32,742 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:11:42,744 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:11:52,745 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:12:02,746 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:12:12,747 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:12:22,748 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:12:32,749 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:12:42,751 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:12:49,253 - INFO - Listening bot
+2025-07-19 22:12:49,254 - INFO - Processes starting
+2025-07-19 22:12:49,254 - INFO - Server TCP Starting
+2025-07-19 22:12:49,255 - INFO - Server Listening...
+2025-07-19 22:12:49,255 - INFO - Server TCP Started
+2025-07-19 22:12:49,255 - INFO - HelloClient Server Starting
+2025-07-19 22:12:49,256 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:12:49,256 - INFO - HelloClient Started
+2025-07-19 22:13:13,524 - INFO - Listening bot
+2025-07-19 22:13:13,524 - INFO - Processes starting
+2025-07-19 22:13:13,524 - INFO - Server TCP Starting
+2025-07-19 22:13:13,525 - INFO - Server Listening...
+2025-07-19 22:13:13,526 - INFO - Server TCP Started
+2025-07-19 22:13:13,526 - INFO - HelloClient Server Starting
+2025-07-19 22:13:13,526 - INFO - Broadcast to everyone with 192.168.1.102
+2025-07-19 22:13:13,526 - INFO - HelloClient Started

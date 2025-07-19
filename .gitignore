@@ -1,4 +1,10 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
-*
-/src/client/__pycache__
-/src/client/audio_manager/__pycache__
+# *
+# /src/client/__pycache__
+# /src/client/audio_manager/__pycache__
+
+
+*.pyc
+Lib/
+Scripts/
+src/includes/ffmpeg
